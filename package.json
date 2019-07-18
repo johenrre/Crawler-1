@@ -1,0 +1,23 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "zhihu": "node zhihu/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johenrre/Crawler-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johenrre/Crawler-1/issues"
+  },
+  "homepage": "https://github.com/johenrre/Crawler-1#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
