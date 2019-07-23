@@ -3,7 +3,7 @@
 
 const request = require('request')
 const cheerio = require('cheerio')
-const { headers } = require('../headers')
+const { headers } = require('./headers')
 
 // 定义一个类来保存回答的信息
 // 这里只定义了 4 个要保存的数据

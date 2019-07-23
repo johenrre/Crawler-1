@@ -1,6 +1,11 @@
 # dependencies
 /node_modules
-/headers.js
+
+/cache
+
+
+# 过滤cookie配置文件
+*headers.js
 
 # ide
 /.idea
