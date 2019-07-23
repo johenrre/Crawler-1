@@ -22,7 +22,7 @@ const __main = function() {
   const novelId = '24276'
   // 获取目录
   dirForNovelId(novelId, dirs => {
-    for (let i = 819; i < dirs.length; i++) {
+    for (let i = 813; i < dirs.length; i++) {
       const t = dirs[i]
       const options = {
         url: t.url,
@@ -39,7 +39,7 @@ const __main = function() {
           )
 
           // fs.exists(path)
-          const novel = novelFromBody(body)
+          const novel = novelFromBody(body).slice(42)
           // 保存小说
           writeToFile(path, novel)
         } else {
