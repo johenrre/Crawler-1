@@ -1,20 +1,5 @@
 [
   {
-    "title": "NaN15点更新第一章，敬请期待！",
-    "url": "https://www.xbiquge.cc/book/24276/15316320.html",
-    "origetitle": "更新预告一 15点更新第一章，敬请期待！"
-  },
-  {
-    "title": "NaN20点更新第二章，敬请期待！",
-    "url": "https://www.xbiquge.cc/book/24276/15316321.html",
-    "origetitle": "更新预告二 20点更新第二章，敬请期待！"
-  },
-  {
-    "title": "NaN22点更新第三章，敬请期待！",
-    "url": "https://www.xbiquge.cc/book/24276/15316322.html",
-    "origetitle": "更新预告三 22点更新第三章，敬请期待！"
-  },
-  {
     "title": "1蟒雀吞龙",
     "url": "https://www.xbiquge.cc/book/24276/15316323.html",
     "origetitle": "第一章 蟒雀吞龙"

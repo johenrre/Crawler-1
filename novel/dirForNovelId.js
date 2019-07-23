@@ -28,7 +28,11 @@ const chapterFromDiv = div => {
     return null
   }
 
-  if (t.indexOf('第') == -1 || t.indexOf('章') == -1) {
+  if (
+    t.indexOf('第') == -1 ||
+    t.indexOf('章') == -1 ||
+    t.indexOf('敬请期待') != -1
+  ) {
     log('无效章节', t)
     return null
   }
