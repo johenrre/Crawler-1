@@ -28,6 +28,11 @@ const chapterFromDiv = div => {
     return null
   }
 
+  if (t.indexOf('第') == -1 || t.indexOf('章') == -1) {
+    log('无效章节', t)
+    return null
+  }
+
   a.origetitle = t
 
   a.title = zhDigit2Arabic(t.split(' ')[0].slice(1, -1)) + t.split(' ')[1]

@@ -1,10 +1,5 @@
 [
   {
-    "title": null,
-    "url": "https://www.xbiquge.cc/book/24276/15316318.html",
-    "origetitle": "新书感言"
-  },
-  {
     "title": "NaN15点更新第一章，敬请期待！",
     "url": "https://www.xbiquge.cc/book/24276/15316320.html",
     "origetitle": "更新预告一 15点更新第一章，敬请期待！"
@@ -535,11 +530,6 @@
     "origetitle": "第一百零四章 银影的力量"
   },
   {
-    "title": null,
-    "url": "https://www.xbiquge.cc/book/24276/16646379.html",
-    "origetitle": "刚才更新发错了一下。"
-  },
-  {
     "title": "105那一剑的风情",
     "url": "https://www.xbiquge.cc/book/24276/16648150.html",
     "origetitle": "第一百零五章 那一剑的风情"
@@ -1020,11 +1010,6 @@
     "origetitle": "第两百章 待遇之差"
   },
   {
-    "title": null,
-    "url": "https://www.xbiquge.cc/book/24276/18818873.html",
-    "origetitle": "今天一章。"
-  },
-  {
     "title": "201苍玄老祖",
     "url": "https://www.xbiquge.cc/book/24276/18846602.html",
     "origetitle": "第两百零一章 苍玄老祖"
@@ -1243,11 +1228,6 @@
     "title": "244风驰电掣",
     "url": "https://www.xbiquge.cc/book/24276/19872376.html",
     "origetitle": "第两百四十四章 风驰电掣"
-  },
-  {
-    "title": null,
-    "url": "https://www.xbiquge.cc/book/24276/19884255.html",
-    "origetitle": "今天一更，勿等。"
   },
   {
     "title": "245实境",

@@ -26,7 +26,6 @@ const cachedUrl = (options, callback) => {
         callback(error, response, b)
       })
     } else {
-      log('读取到缓存的页面', path)
       const response = {
         statusCode: 200
       }

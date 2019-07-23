@@ -68,7 +68,7 @@ const writeToFile = async function(path, data) {
   await dirExists(dir)
   fs.writeFile(path, d, function(error) {
     if (!error) {
-      log('--- 写入成功', path)
+      // log('--- 写入成功', path)
     } else {
       log('*** 写入失败', path)
     }
