@@ -19,7 +19,9 @@
   "homepage": "https://github.com/johenrre/Crawler-1#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "chinese2num": "^1.0.8",
     "iconv-lite": "^0.5.0",
+    "nzh": "^1.0.4",
     "request": "^2.88.0"
   }
 }

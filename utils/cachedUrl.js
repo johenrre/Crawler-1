@@ -14,7 +14,7 @@ const cachedUrl = (options, callback) => {
     .join('-')
     .split(':')
     .join('-')
-  const path = pathLib.join(__dirname, `../cache/${url}`)
+  const path = pathLib.join(__dirname, `../cache/${url}.txt`)
   fs.readFile(path, function(err, data) {
     if (err != null) {
       request(options, function(error, response, body) {

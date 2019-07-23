@@ -7,6 +7,8 @@
 # 过滤cookie配置文件
 *headers.js
 
+*novelData
+
 # ide
 /.idea
 

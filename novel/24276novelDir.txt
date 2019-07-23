@@ -1,0 +1,4742 @@
+[
+  {
+    "title": null,
+    "url": "https://www.xbiquge.cc/book/24276/15316318.html",
+    "origetitle": "新书感言"
+  },
+  {
+    "title": "NaN15点更新第一章，敬请期待！",
+    "url": "https://www.xbiquge.cc/book/24276/15316320.html",
+    "origetitle": "更新预告一 15点更新第一章，敬请期待！"
+  },
+  {
+    "title": "NaN20点更新第二章，敬请期待！",
+    "url": "https://www.xbiquge.cc/book/24276/15316321.html",
+    "origetitle": "更新预告二 20点更新第二章，敬请期待！"
+  },
+  {
+    "title": "NaN22点更新第三章，敬请期待！",
+    "url": "https://www.xbiquge.cc/book/24276/15316322.html",
+    "origetitle": "更新预告三 22点更新第三章，敬请期待！"
+  },
+  {
+    "title": "1蟒雀吞龙",
+    "url": "https://www.xbiquge.cc/book/24276/15316323.html",
+    "origetitle": "第一章 蟒雀吞龙"
+  },
+  {
+    "title": "2源纹",
+    "url": "https://www.xbiquge.cc/book/24276/15318340.html",
+    "origetitle": "第二章 源纹"
+  },
+  {
+    "title": "3苏幼微",
+    "url": "https://www.xbiquge.cc/book/24276/15319755.html",
+    "origetitle": "第三章 苏幼微"
+  },
+  {
+    "title": "4源纹的力量",
+    "url": "https://www.xbiquge.cc/book/24276/15323047.html",
+    "origetitle": "第四章 源纹的力量"
+  },
+  {
+    "title": "5齐岳，柳溪",
+    "url": "https://www.xbiquge.cc/book/24276/15335439.html",
+    "origetitle": "第五章 齐岳，柳溪"
+  },
+  {
+    "title": "6祖地宗祠",
+    "url": "https://www.xbiquge.cc/book/24276/15337965.html",
+    "origetitle": "第六章 祖地宗祠"
+  },
+  {
+    "title": "7神秘之地",
+    "url": "https://www.xbiquge.cc/book/24276/15347359.html",
+    "origetitle": "第七章 神秘之地"
+  },
+  {
+    "title": "8寻八脉",
+    "url": "https://www.xbiquge.cc/book/24276/15354511.html",
+    "origetitle": "第八章 寻八脉"
+  },
+  {
+    "title": "9八脉现",
+    "url": "https://www.xbiquge.cc/book/24276/15402704.html",
+    "origetitle": "第九章 八脉现"
+  },
+  {
+    "title": "10得授机缘",
+    "url": "https://www.xbiquge.cc/book/24276/15408193.html",
+    "origetitle": "第十章 得授机缘"
+  },
+  {
+    "title": "11齐王的胃口",
+    "url": "https://www.xbiquge.cc/book/24276/15423437.html",
+    "origetitle": "第十一章 齐王的胃口"
+  },
+  {
+    "title": "12源食",
+    "url": "https://www.xbiquge.cc/book/24276/15426160.html",
+    "origetitle": "第十二章 源食"
+  },
+  {
+    "title": "13冲脉",
+    "url": "https://www.xbiquge.cc/book/24276/15451649.html",
+    "origetitle": "第十三章 冲脉"
+  },
+  {
+    "title": "14神魂",
+    "url": "https://www.xbiquge.cc/book/24276/15456525.html",
+    "origetitle": "第十四章 神魂"
+  },
+  {
+    "title": "15混沌神磨观想法",
+    "url": "https://www.xbiquge.cc/book/24276/15465763.html",
+    "origetitle": "第十五章 混沌神磨观想法"
+  },
+  {
+    "title": "16挖墙角",
+    "url": "https://www.xbiquge.cc/book/24276/15468028.html",
+    "origetitle": "第十六章 挖墙角"
+  },
+  {
+    "title": "17林枫",
+    "url": "https://www.xbiquge.cc/book/24276/15477074.html",
+    "origetitle": "第十七章 林枫"
+  },
+  {
+    "title": "18文武",
+    "url": "https://www.xbiquge.cc/book/24276/15481353.html",
+    "origetitle": "第十八章 文武"
+  },
+  {
+    "title": "19开脉",
+    "url": "https://www.xbiquge.cc/book/24276/15493508.html",
+    "origetitle": "第十九章 开脉"
+  },
+  {
+    "title": "20源术",
+    "url": "https://www.xbiquge.cc/book/24276/15498596.html",
+    "origetitle": "第二十章 源术"
+  },
+  {
+    "title": "21龙步，龙碑手",
+    "url": "https://www.xbiquge.cc/book/24276/15527582.html",
+    "origetitle": "第二十一章 龙步，龙碑手"
+  },
+  {
+    "title": "22大考来临",
+    "url": "https://www.xbiquge.cc/book/24276/15533398.html",
+    "origetitle": "第二十二章 大考来临"
+  },
+  {
+    "title": "23初露峥嵘",
+    "url": "https://www.xbiquge.cc/book/24276/15588803.html",
+    "origetitle": "第二十三章 初露峥嵘"
+  },
+  {
+    "title": "24显威",
+    "url": "https://www.xbiquge.cc/book/24276/15588807.html",
+    "origetitle": "第二十四章 显威"
+  },
+  {
+    "title": "25战林枫",
+    "url": "https://www.xbiquge.cc/book/24276/15588809.html",
+    "origetitle": "第二十五章 战林枫"
+  },
+  {
+    "title": "26崛起之势",
+    "url": "https://www.xbiquge.cc/book/24276/15588811.html",
+    "origetitle": "第二十六章 崛起之势"
+  },
+  {
+    "title": "27府试落幕",
+    "url": "https://www.xbiquge.cc/book/24276/15588813.html",
+    "origetitle": "第二十七章 府试落幕"
+  },
+  {
+    "title": "28入甲院",
+    "url": "https://www.xbiquge.cc/book/24276/15588815.html",
+    "origetitle": "第二十八章 入甲院"
+  },
+  {
+    "title": "29玉灵瀑",
+    "url": "https://www.xbiquge.cc/book/24276/15641409.html",
+    "origetitle": "第二十九章 玉灵瀑"
+  },
+  {
+    "title": "30开三脉",
+    "url": "https://www.xbiquge.cc/book/24276/15665166.html",
+    "origetitle": "第三十章 开三脉"
+  },
+  {
+    "title": "31立威",
+    "url": "https://www.xbiquge.cc/book/24276/15704797.html",
+    "origetitle": "第三十一章 立威"
+  },
+  {
+    "title": "32冰火聚源纹",
+    "url": "https://www.xbiquge.cc/book/24276/15714343.html",
+    "origetitle": "第三十二章 冰火聚源纹"
+  },
+  {
+    "title": "33两女相见",
+    "url": "https://www.xbiquge.cc/book/24276/15728588.html",
+    "origetitle": "第三十三章 两女相见"
+  },
+  {
+    "title": "34谋灵瀑",
+    "url": "https://www.xbiquge.cc/book/24276/15732923.html",
+    "origetitle": "第三十四章 谋灵瀑"
+  },
+  {
+    "title": "35玉灵瀑之斗",
+    "url": "https://www.xbiquge.cc/book/24276/15745803.html",
+    "origetitle": "第三十五章 玉灵瀑之斗"
+  },
+  {
+    "title": "36阴招",
+    "url": "https://www.xbiquge.cc/book/24276/15748425.html",
+    "origetitle": "第三十六章 阴招"
+  },
+  {
+    "title": "37双双突破",
+    "url": "https://www.xbiquge.cc/book/24276/15760114.html",
+    "origetitle": "第三十七章 双双突破"
+  },
+  {
+    "title": "38黑林山脉",
+    "url": "https://www.xbiquge.cc/book/24276/15766657.html",
+    "origetitle": "第三十八章 黑林山脉"
+  },
+  {
+    "title": "39遇敌",
+    "url": "https://www.xbiquge.cc/book/24276/15784731.html",
+    "origetitle": "第三十九章 遇敌"
+  },
+  {
+    "title": "40只剩这个了",
+    "url": "https://www.xbiquge.cc/book/24276/15787373.html",
+    "origetitle": "第四十章 只剩这个了"
+  },
+  {
+    "title": "41玄芒术",
+    "url": "https://www.xbiquge.cc/book/24276/15824622.html",
+    "origetitle": "第四十一章 玄芒术"
+  },
+  {
+    "title": "42三十六兽开脉纹",
+    "url": "https://www.xbiquge.cc/book/24276/15830000.html",
+    "origetitle": "第四十二章 三十六兽开脉纹"
+  },
+  {
+    "title": "43修炼玄芒术",
+    "url": "https://www.xbiquge.cc/book/24276/15868926.html",
+    "origetitle": "第四十三章 修炼玄芒术"
+  },
+  {
+    "title": "44苏幼微的进步",
+    "url": "https://www.xbiquge.cc/book/24276/15881692.html",
+    "origetitle": "第四十四章 苏幼微的进步"
+  },
+  {
+    "title": "45府试之前",
+    "url": "https://www.xbiquge.cc/book/24276/15893938.html",
+    "origetitle": "第四十五章 府试之前"
+  },
+  {
+    "title": "46府试开始",
+    "url": "https://www.xbiquge.cc/book/24276/15896158.html",
+    "origetitle": "第四十六章 府试开始"
+  },
+  {
+    "title": "47异样",
+    "url": "https://www.xbiquge.cc/book/24276/15910546.html",
+    "origetitle": "第四十七章 异样"
+  },
+  {
+    "title": "48下一个",
+    "url": "https://www.xbiquge.cc/book/24276/15912364.html",
+    "origetitle": "第四十八章 下一个"
+  },
+  {
+    "title": "49战柳溪",
+    "url": "https://www.xbiquge.cc/book/24276/15936500.html",
+    "origetitle": "第四十九章 战柳溪"
+  },
+  {
+    "title": "50惊艳全场",
+    "url": "https://www.xbiquge.cc/book/24276/15938541.html",
+    "origetitle": "第五十章 惊艳全场"
+  },
+  {
+    "title": "51周元战齐岳",
+    "url": "https://www.xbiquge.cc/book/24276/15947754.html",
+    "origetitle": "第五十一章 周元战齐岳"
+  },
+  {
+    "title": "52真正的实力",
+    "url": "https://www.xbiquge.cc/book/24276/15952408.html",
+    "origetitle": "第五十二章 真正的实力"
+  },
+  {
+    "title": "53我也会",
+    "url": "https://www.xbiquge.cc/book/24276/15990128.html",
+    "origetitle": "第五十三章 我也会"
+  },
+  {
+    "title": "54得胜",
+    "url": "https://www.xbiquge.cc/book/24276/16005062.html",
+    "origetitle": "第五十四章 得胜"
+  },
+  {
+    "title": "55卫沧澜",
+    "url": "https://www.xbiquge.cc/book/24276/16053562.html",
+    "origetitle": "第五十五章 卫沧澜"
+  },
+  {
+    "title": "56武煌",
+    "url": "https://www.xbiquge.cc/book/24276/16064073.html",
+    "origetitle": "第五十六章 武煌"
+  },
+  {
+    "title": "57祖龙经",
+    "url": "https://www.xbiquge.cc/book/24276/16075520.html",
+    "origetitle": "第五十七章 祖龙经"
+  },
+  {
+    "title": "58源材",
+    "url": "https://www.xbiquge.cc/book/24276/16077874.html",
+    "origetitle": "第五十八章 源材"
+  },
+  {
+    "title": "59虚境中期",
+    "url": "https://www.xbiquge.cc/book/24276/16087588.html",
+    "origetitle": "第五十九章 虚境中期"
+  },
+  {
+    "title": "60启程",
+    "url": "https://www.xbiquge.cc/book/24276/16137674.html",
+    "origetitle": "第六十章 启程"
+  },
+  {
+    "title": "61阴阳气府",
+    "url": "https://www.xbiquge.cc/book/24276/16137676.html",
+    "origetitle": "第六十一章 阴阳气府"
+  },
+  {
+    "title": "62沧澜郡，卫青青",
+    "url": "https://www.xbiquge.cc/book/24276/16137678.html",
+    "origetitle": "第六十二章 沧澜郡，卫青青"
+  },
+  {
+    "title": "63一招立威",
+    "url": "https://www.xbiquge.cc/book/24276/16137680.html",
+    "origetitle": "第六十三章 一招立威"
+  },
+  {
+    "title": "64赢大师",
+    "url": "https://www.xbiquge.cc/book/24276/16137681.html",
+    "origetitle": "第六十四章 赢大师"
+  },
+  {
+    "title": "65驱毒",
+    "url": "https://www.xbiquge.cc/book/24276/16143286.html",
+    "origetitle": "第六十五章 驱毒"
+  },
+  {
+    "title": "66揭穿",
+    "url": "https://www.xbiquge.cc/book/24276/16157216.html",
+    "origetitle": "第六十六章 揭穿"
+  },
+  {
+    "title": "67千蚁蚀毒纹",
+    "url": "https://www.xbiquge.cc/book/24276/16174644.html",
+    "origetitle": "第六十七章 千蚁蚀毒纹"
+  },
+  {
+    "title": "68准备",
+    "url": "https://www.xbiquge.cc/book/24276/16190275.html",
+    "origetitle": "第六十八章 准备"
+  },
+  {
+    "title": "69显手段",
+    "url": "https://www.xbiquge.cc/book/24276/16206277.html",
+    "origetitle": "第六十九章 显手段"
+  },
+  {
+    "title": "70到手",
+    "url": "https://www.xbiquge.cc/book/24276/16206278.html",
+    "origetitle": "第七十章 到手"
+  },
+  {
+    "title": "71拉拢",
+    "url": "https://www.xbiquge.cc/book/24276/16223092.html",
+    "origetitle": "第七十一章 拉拢"
+  },
+  {
+    "title": "72黑毒王",
+    "url": "https://www.xbiquge.cc/book/24276/16227194.html",
+    "origetitle": "第七十二章 黑毒王"
+  },
+  {
+    "title": "73进入黑渊",
+    "url": "https://www.xbiquge.cc/book/24276/16245409.html",
+    "origetitle": "第七十三章 进入黑渊"
+  },
+  {
+    "title": "74黑色玉牌",
+    "url": "https://www.xbiquge.cc/book/24276/16250194.html",
+    "origetitle": "第七十四章 黑色玉牌"
+  },
+  {
+    "title": "75第八脉",
+    "url": "https://www.xbiquge.cc/book/24276/16261545.html",
+    "origetitle": "第七十五章 第八脉"
+  },
+  {
+    "title": "76开辟气府",
+    "url": "https://www.xbiquge.cc/book/24276/16274569.html",
+    "origetitle": "第七十六章 开辟气府"
+  },
+  {
+    "title": "77玉婴果",
+    "url": "https://www.xbiquge.cc/book/24276/16296346.html",
+    "origetitle": "第七十七章 玉婴果"
+  },
+  {
+    "title": "78登岛之法",
+    "url": "https://www.xbiquge.cc/book/24276/16310257.html",
+    "origetitle": "第七十八章 登岛之法"
+  },
+  {
+    "title": "79恐惧",
+    "url": "https://www.xbiquge.cc/book/24276/16330611.html",
+    "origetitle": "第七十九章 恐惧"
+  },
+  {
+    "title": "80得宝",
+    "url": "https://www.xbiquge.cc/book/24276/16334172.html",
+    "origetitle": "第八十章 得宝"
+  },
+  {
+    "title": "81谷中大战",
+    "url": "https://www.xbiquge.cc/book/24276/16345415.html",
+    "origetitle": "第八十一章 谷中大战"
+  },
+  {
+    "title": "82吞吞显威",
+    "url": "https://www.xbiquge.cc/book/24276/16351758.html",
+    "origetitle": "第八十二章 吞吞显威"
+  },
+  {
+    "title": "83争夺",
+    "url": "https://www.xbiquge.cc/book/24276/16361538.html",
+    "origetitle": "第八十三章 争夺"
+  },
+  {
+    "title": "84霸道的怨龙毒",
+    "url": "https://www.xbiquge.cc/book/24276/16369438.html",
+    "origetitle": "第八十四章 霸道的怨龙毒"
+  },
+  {
+    "title": "85战齐昊",
+    "url": "https://www.xbiquge.cc/book/24276/16379072.html",
+    "origetitle": "第八十五章 战齐昊"
+  },
+  {
+    "title": "86侵蚀",
+    "url": "https://www.xbiquge.cc/book/24276/16384201.html",
+    "origetitle": "第八十六章 侵蚀"
+  },
+  {
+    "title": "87斩杀",
+    "url": "https://www.xbiquge.cc/book/24276/16421380.html",
+    "origetitle": "第八十七章 斩杀"
+  },
+  {
+    "title": "88火灵穗到手",
+    "url": "https://www.xbiquge.cc/book/24276/16427779.html",
+    "origetitle": "第八十八章 火灵穗到手"
+  },
+  {
+    "title": "89降服",
+    "url": "https://www.xbiquge.cc/book/24276/16442454.html",
+    "origetitle": "第八十九章 降服"
+  },
+  {
+    "title": "90遗宝",
+    "url": "https://www.xbiquge.cc/book/24276/16449279.html",
+    "origetitle": "第九十章 遗宝"
+  },
+  {
+    "title": "91地宫",
+    "url": "https://www.xbiquge.cc/book/24276/16458291.html",
+    "origetitle": "第九十一章 地宫"
+  },
+  {
+    "title": "92宝贝",
+    "url": "https://www.xbiquge.cc/book/24276/16466587.html",
+    "origetitle": "第九十二章 宝贝"
+  },
+  {
+    "title": "93银影",
+    "url": "https://www.xbiquge.cc/book/24276/16493285.html",
+    "origetitle": "第九十三章 银影"
+  },
+  {
+    "title": "94齐王叛乱",
+    "url": "https://www.xbiquge.cc/book/24276/16497410.html",
+    "origetitle": "第九十四章 齐王叛乱"
+  },
+  {
+    "title": "95争议",
+    "url": "https://www.xbiquge.cc/book/24276/16521188.html",
+    "origetitle": "第九十五章 争议"
+  },
+  {
+    "title": "96五位",
+    "url": "https://www.xbiquge.cc/book/24276/16543654.html",
+    "origetitle": "第九十六章 五位"
+  },
+  {
+    "title": "97战书",
+    "url": "https://www.xbiquge.cc/book/24276/16573261.html",
+    "origetitle": "第九十七章 战书"
+  },
+  {
+    "title": "98通天玄蟒气",
+    "url": "https://www.xbiquge.cc/book/24276/16583329.html",
+    "origetitle": "第九十八章 通天玄蟒气"
+  },
+  {
+    "title": "99齐王围城",
+    "url": "https://www.xbiquge.cc/book/24276/16587187.html",
+    "origetitle": "第九十九章 齐王围城"
+  },
+  {
+    "title": "100七太初",
+    "url": "https://www.xbiquge.cc/book/24276/16610104.html",
+    "origetitle": "第一百章 七太初"
+  },
+  {
+    "title": "101大战来临",
+    "url": "https://www.xbiquge.cc/book/24276/16615298.html",
+    "origetitle": "第一百零一章 大战来临"
+  },
+  {
+    "title": "102围城之战",
+    "url": "https://www.xbiquge.cc/book/24276/16616959.html",
+    "origetitle": "第一百零二章 围城之战"
+  },
+  {
+    "title": "104银影的力量",
+    "url": "https://www.xbiquge.cc/book/24276/16645116.html",
+    "origetitle": "第一百零四章 银影的力量"
+  },
+  {
+    "title": null,
+    "url": "https://www.xbiquge.cc/book/24276/16646379.html",
+    "origetitle": "刚才更新发错了一下。"
+  },
+  {
+    "title": "105那一剑的风情",
+    "url": "https://www.xbiquge.cc/book/24276/16648150.html",
+    "origetitle": "第一百零五章 那一剑的风情"
+  },
+  {
+    "title": "106周元斩太初",
+    "url": "https://www.xbiquge.cc/book/24276/16684613.html",
+    "origetitle": "第一百零六章 周元斩太初"
+  },
+  {
+    "title": "107大势已去",
+    "url": "https://www.xbiquge.cc/book/24276/16727888.html",
+    "origetitle": "第一百零七章 大势已去"
+  },
+  {
+    "title": "108武王圣旨",
+    "url": "https://www.xbiquge.cc/book/24276/16745560.html",
+    "origetitle": "第一百零八章 武王圣旨"
+  },
+  {
+    "title": "109打破阴影",
+    "url": "https://www.xbiquge.cc/book/24276/16771715.html",
+    "origetitle": "第一百零九章 打破阴影"
+  },
+  {
+    "title": "110大战落幕",
+    "url": "https://www.xbiquge.cc/book/24276/16781805.html",
+    "origetitle": "第一百一十章 大战落幕"
+  },
+  {
+    "title": "111灰袍老人",
+    "url": "https://www.xbiquge.cc/book/24276/16811553.html",
+    "origetitle": "第一百一十一章 灰袍老人"
+  },
+  {
+    "title": "112苏幼微的缘法",
+    "url": "https://www.xbiquge.cc/book/24276/16821456.html",
+    "origetitle": "第一百一十二章 苏幼微的缘法"
+  },
+  {
+    "title": "113一份造化",
+    "url": "https://www.xbiquge.cc/book/24276/16842320.html",
+    "origetitle": "第一百一十三章 一份造化"
+  },
+  {
+    "title": "114圣迹之地",
+    "url": "https://www.xbiquge.cc/book/24276/16851226.html",
+    "origetitle": "第一百一十四章 圣迹之地"
+  },
+  {
+    "title": "115紫衣少女",
+    "url": "https://www.xbiquge.cc/book/24276/16866882.html",
+    "origetitle": "第一百一十五章 紫衣少女"
+  },
+  {
+    "title": "116风云汇聚",
+    "url": "https://www.xbiquge.cc/book/24276/16873935.html",
+    "origetitle": "第一百一十六章 风云汇聚"
+  },
+  {
+    "title": "117玄蟒鳞",
+    "url": "https://www.xbiquge.cc/book/24276/16892829.html",
+    "origetitle": "第一百一十七章 玄蟒鳞"
+  },
+  {
+    "title": "118古境",
+    "url": "https://www.xbiquge.cc/book/24276/16912638.html",
+    "origetitle": "第一百一十八章 古境"
+  },
+  {
+    "title": "119绿发少女",
+    "url": "https://www.xbiquge.cc/book/24276/16955926.html",
+    "origetitle": "第一百一十九章 绿发少女"
+  },
+  {
+    "title": "120古翎",
+    "url": "https://www.xbiquge.cc/book/24276/16978581.html",
+    "origetitle": "第一百二十章 古翎"
+  },
+  {
+    "title": "121兽心通明者",
+    "url": "https://www.xbiquge.cc/book/24276/17023041.html",
+    "origetitle": "第一百二十一章 兽心通明者"
+  },
+  {
+    "title": "122炼魂塔？",
+    "url": "https://www.xbiquge.cc/book/24276/17078678.html",
+    "origetitle": "第一百二十二章 炼魂塔？"
+  },
+  {
+    "title": "123杂鱼",
+    "url": "https://www.xbiquge.cc/book/24276/17118676.html",
+    "origetitle": "第一百二十三章 杂鱼"
+  },
+  {
+    "title": "124破天",
+    "url": "https://www.xbiquge.cc/book/24276/17132551.html",
+    "origetitle": "第一百二十四章 破天"
+  },
+  {
+    "title": "125黑色水晶球",
+    "url": "https://www.xbiquge.cc/book/24276/17163975.html",
+    "origetitle": "第一百二十五章 黑色水晶球"
+  },
+  {
+    "title": "126全身而退",
+    "url": "https://www.xbiquge.cc/book/24276/17169392.html",
+    "origetitle": "第一百二十六章 全身而退"
+  },
+  {
+    "title": "127分宝",
+    "url": "https://www.xbiquge.cc/book/24276/17191639.html",
+    "origetitle": "第一百二十七章 分宝"
+  },
+  {
+    "title": "128灰袍青年",
+    "url": "https://www.xbiquge.cc/book/24276/17201122.html",
+    "origetitle": "第一百二十八章 灰袍青年"
+  },
+  {
+    "title": "129圣迹城",
+    "url": "https://www.xbiquge.cc/book/24276/17230791.html",
+    "origetitle": "第一百二十九章 圣迹城"
+  },
+  {
+    "title": "130骄子楼",
+    "url": "https://www.xbiquge.cc/book/24276/17236508.html",
+    "origetitle": "第一百三十章 骄子楼"
+  },
+  {
+    "title": "131天罗戟",
+    "url": "https://www.xbiquge.cc/book/24276/17255421.html",
+    "origetitle": "第一百三十一章 天罗戟"
+  },
+  {
+    "title": "132东西到手",
+    "url": "https://www.xbiquge.cc/book/24276/17259793.html",
+    "origetitle": "第一百三十二章 东西到手"
+  },
+  {
+    "title": "133小天源术",
+    "url": "https://www.xbiquge.cc/book/24276/17270961.html",
+    "origetitle": "第一百三十三章 小天源术"
+  },
+  {
+    "title": "134古灵",
+    "url": "https://www.xbiquge.cc/book/24276/17270962.html",
+    "origetitle": "第一百三十四章 古灵"
+  },
+  {
+    "title": "135左丘青鱼",
+    "url": "https://www.xbiquge.cc/book/24276/17286945.html",
+    "origetitle": "第一百三十五章 左丘青鱼"
+  },
+  {
+    "title": "136初见武煌",
+    "url": "https://www.xbiquge.cc/book/24276/17293696.html",
+    "origetitle": "第一百三十六章 初见武煌"
+  },
+  {
+    "title": "137虚境后期",
+    "url": "https://www.xbiquge.cc/book/24276/17352590.html",
+    "origetitle": "第一百三十七章 虚境后期"
+  },
+  {
+    "title": "138赤脚大叔",
+    "url": "https://www.xbiquge.cc/book/24276/17385077.html",
+    "origetitle": "第一百三十八章 赤脚大叔"
+  },
+  {
+    "title": "139出手",
+    "url": "https://www.xbiquge.cc/book/24276/17457814.html",
+    "origetitle": "第一百三十九章 出手"
+  },
+  {
+    "title": "140圣迹之地",
+    "url": "https://www.xbiquge.cc/book/24276/17463875.html",
+    "origetitle": "第一百四十章 圣迹之地"
+  },
+  {
+    "title": "141冤家路窄",
+    "url": "https://www.xbiquge.cc/book/24276/17491098.html",
+    "origetitle": "第一百四十一章 冤家路窄"
+  },
+  {
+    "title": "142危局",
+    "url": "https://www.xbiquge.cc/book/24276/17498782.html",
+    "origetitle": "第一百四十二章 危局"
+  },
+  {
+    "title": "143白色气流",
+    "url": "https://www.xbiquge.cc/book/24276/17560932.html",
+    "origetitle": "第一百四十三章 白色气流"
+  },
+  {
+    "title": "144第三纹",
+    "url": "https://www.xbiquge.cc/book/24276/17571398.html",
+    "origetitle": "第一百四十四章 第三纹"
+  },
+  {
+    "title": "145四品源兽",
+    "url": "https://www.xbiquge.cc/book/24276/17645989.html",
+    "origetitle": "第一百四十五章 四品源兽"
+  },
+  {
+    "title": "146圣迹队",
+    "url": "https://www.xbiquge.cc/book/24276/17665480.html",
+    "origetitle": "第一百四十六章 圣迹队"
+  },
+  {
+    "title": "147玄重泥",
+    "url": "https://www.xbiquge.cc/book/24276/17722867.html",
+    "origetitle": "第一百四十七章 玄重泥"
+  },
+  {
+    "title": "148坐山观虎斗",
+    "url": "https://www.xbiquge.cc/book/24276/17740820.html",
+    "origetitle": "第一百四十八章 坐山观虎斗"
+  },
+  {
+    "title": "149坐收渔翁利",
+    "url": "https://www.xbiquge.cc/book/24276/17774295.html",
+    "origetitle": "第一百四十九章 坐收渔翁利"
+  },
+  {
+    "title": "150小天源术，大风雷",
+    "url": "https://www.xbiquge.cc/book/24276/17787239.html",
+    "origetitle": "第一百五十章 小天源术，大风雷"
+  },
+  {
+    "title": "151圣碑",
+    "url": "https://www.xbiquge.cc/book/24276/17817952.html",
+    "origetitle": "第一百五十一章 圣碑"
+  },
+  {
+    "title": "152气冲天关",
+    "url": "https://www.xbiquge.cc/book/24276/17826023.html",
+    "origetitle": "第一百五十二章 气冲天关"
+  },
+  {
+    "title": "153以丈量源气",
+    "url": "https://www.xbiquge.cc/book/24276/17877628.html",
+    "origetitle": "第一百五十三章 以丈量源气"
+  },
+  {
+    "title": "154金色玄蟒鳞",
+    "url": "https://www.xbiquge.cc/book/24276/17889107.html",
+    "origetitle": "第一百五十四章 金色玄蟒鳞"
+  },
+  {
+    "title": "155周元战萧天玄",
+    "url": "https://www.xbiquge.cc/book/24276/17932772.html",
+    "origetitle": "第一百五十五章 周元战萧天玄"
+  },
+  {
+    "title": "156蟒吞魔轮",
+    "url": "https://www.xbiquge.cc/book/24276/17936702.html",
+    "origetitle": "第一百五十六章 蟒吞魔轮"
+  },
+  {
+    "title": "157收获",
+    "url": "https://www.xbiquge.cc/book/24276/17944981.html",
+    "origetitle": "第一百五十七章 收获"
+  },
+  {
+    "title": "158合作",
+    "url": "https://www.xbiquge.cc/book/24276/17956281.html",
+    "origetitle": "第一百五十八章 合作"
+  },
+  {
+    "title": "159围剿",
+    "url": "https://www.xbiquge.cc/book/24276/17962543.html",
+    "origetitle": "第一百五十九章 围剿"
+  },
+  {
+    "title": "160风雷成，夭夭伤",
+    "url": "https://www.xbiquge.cc/book/24276/17978063.html",
+    "origetitle": "第一百六十章 风雷成，夭夭伤"
+  },
+  {
+    "title": "161追杀",
+    "url": "https://www.xbiquge.cc/book/24276/17985157.html",
+    "origetitle": "第一百六十一章 追杀"
+  },
+  {
+    "title": "162青鱼相助",
+    "url": "https://www.xbiquge.cc/book/24276/17993443.html",
+    "origetitle": "第一百六十二章 青鱼相助"
+  },
+  {
+    "title": "163偶遇",
+    "url": "https://www.xbiquge.cc/book/24276/17995313.html",
+    "origetitle": "第一百六十三章 偶遇"
+  },
+  {
+    "title": "164绿萝谋金池",
+    "url": "https://www.xbiquge.cc/book/24276/18043768.html",
+    "origetitle": "第一百六十四章 绿萝谋金池"
+  },
+  {
+    "title": "165东玄来袭",
+    "url": "https://www.xbiquge.cc/book/24276/18218126.html",
+    "origetitle": "第一百六十五章 东玄来袭"
+  },
+  {
+    "title": "166祝罂",
+    "url": "https://www.xbiquge.cc/book/24276/18246286.html",
+    "origetitle": "第一百六十六章 祝罂"
+  },
+  {
+    "title": "167斗祝罂",
+    "url": "https://www.xbiquge.cc/book/24276/18255759.html",
+    "origetitle": "第一百六十七章 斗祝罂"
+  },
+  {
+    "title": "168再遇",
+    "url": "https://www.xbiquge.cc/book/24276/18272308.html",
+    "origetitle": "第一百六十八章 再遇"
+  },
+  {
+    "title": "169武煌的杀意",
+    "url": "https://www.xbiquge.cc/book/24276/18289069.html",
+    "origetitle": "第一百六十九章 武煌的杀意"
+  },
+  {
+    "title": "170截杀",
+    "url": "https://www.xbiquge.cc/book/24276/18298421.html",
+    "origetitle": "第一百七十章 截杀"
+  },
+  {
+    "title": "171神秘之兽",
+    "url": "https://www.xbiquge.cc/book/24276/18310945.html",
+    "origetitle": "第一百七十一章 神秘之兽"
+  },
+  {
+    "title": "172吞吞发怒",
+    "url": "https://www.xbiquge.cc/book/24276/18322500.html",
+    "origetitle": "第一百七十二章 吞吞发怒"
+  },
+  {
+    "title": "173圣碑留名",
+    "url": "https://www.xbiquge.cc/book/24276/18332910.html",
+    "origetitle": "第一百七十三章 圣碑留名"
+  },
+  {
+    "title": "174金池",
+    "url": "https://www.xbiquge.cc/book/24276/18336460.html",
+    "origetitle": "第一百七十四章 金池"
+  },
+  {
+    "title": "175圣纹",
+    "url": "https://www.xbiquge.cc/book/24276/18345314.html",
+    "origetitle": "第一百七十五章 圣纹"
+  },
+  {
+    "title": "176实力大进",
+    "url": "https://www.xbiquge.cc/book/24276/18350075.html",
+    "origetitle": "第一百七十六章 实力大进"
+  },
+  {
+    "title": "177圣塔",
+    "url": "https://www.xbiquge.cc/book/24276/18367015.html",
+    "origetitle": "第一百七十七章 圣塔"
+  },
+  {
+    "title": "178汇聚",
+    "url": "https://www.xbiquge.cc/book/24276/18370034.html",
+    "origetitle": "第一百七十八章 汇聚"
+  },
+  {
+    "title": "179进圣塔",
+    "url": "https://www.xbiquge.cc/book/24276/18378407.html",
+    "origetitle": "第一百七十九章 进圣塔"
+  },
+  {
+    "title": "180青色洪流",
+    "url": "https://www.xbiquge.cc/book/24276/18381127.html",
+    "origetitle": "第一百八十章 青色洪流"
+  },
+  {
+    "title": "181各显神通",
+    "url": "https://www.xbiquge.cc/book/24276/18413274.html",
+    "origetitle": "第一百八十一章 各显神通"
+  },
+  {
+    "title": "182追赶",
+    "url": "https://www.xbiquge.cc/book/24276/18415477.html",
+    "origetitle": "第一百八十二章 追赶"
+  },
+  {
+    "title": "183相救",
+    "url": "https://www.xbiquge.cc/book/24276/18423627.html",
+    "origetitle": "第一百八十三章 相救"
+  },
+  {
+    "title": "184圣梯石台",
+    "url": "https://www.xbiquge.cc/book/24276/18426650.html",
+    "origetitle": "第一百八十四章 圣梯石台"
+  },
+  {
+    "title": "185龙吸",
+    "url": "https://www.xbiquge.cc/book/24276/18438371.html",
+    "origetitle": "第一百八十五章 龙吸"
+  },
+  {
+    "title": "186青浪阻圣路",
+    "url": "https://www.xbiquge.cc/book/24276/18441666.html",
+    "origetitle": "第一百八十六章 青浪阻圣路"
+  },
+  {
+    "title": "187登云霄",
+    "url": "https://www.xbiquge.cc/book/24276/18450551.html",
+    "origetitle": "第一百八十七章 登云霄"
+  },
+  {
+    "title": "188双龙会",
+    "url": "https://www.xbiquge.cc/book/24276/18457120.html",
+    "origetitle": "第一百八十八章 双龙会"
+  },
+  {
+    "title": "189玄蟒吞金乌",
+    "url": "https://www.xbiquge.cc/book/24276/18490428.html",
+    "origetitle": "第一百八十九章 玄蟒吞金乌"
+  },
+  {
+    "title": "190以命相搏",
+    "url": "https://www.xbiquge.cc/book/24276/18522991.html",
+    "origetitle": "第一百九十章 以命相搏"
+  },
+  {
+    "title": "191天源术",
+    "url": "https://www.xbiquge.cc/book/24276/18528637.html",
+    "origetitle": "第一百九十一章 天源术"
+  },
+  {
+    "title": "192天龟结界",
+    "url": "https://www.xbiquge.cc/book/24276/18552293.html",
+    "origetitle": "第一百九十二章 天龟结界"
+  },
+  {
+    "title": "193圣纹之力",
+    "url": "https://www.xbiquge.cc/book/24276/18559747.html",
+    "origetitle": "第一百九十三章 圣纹之力"
+  },
+  {
+    "title": "194龙变",
+    "url": "https://www.xbiquge.cc/book/24276/18651130.html",
+    "origetitle": "第一百九十四章 龙变"
+  },
+  {
+    "title": "195赤龙息",
+    "url": "https://www.xbiquge.cc/book/24276/18664662.html",
+    "origetitle": "第一百九十五章 赤龙息"
+  },
+  {
+    "title": "196第一个",
+    "url": "https://www.xbiquge.cc/book/24276/18727268.html",
+    "origetitle": "第一百九十六章 第一个"
+  },
+  {
+    "title": "197双龙斗，胜与负",
+    "url": "https://www.xbiquge.cc/book/24276/18730952.html",
+    "origetitle": "第一百九十七章 双龙斗，胜与负"
+  },
+  {
+    "title": "198分圣龙气",
+    "url": "https://www.xbiquge.cc/book/24276/18772730.html",
+    "origetitle": "第一百九十八章 分圣龙气"
+  },
+  {
+    "title": "199国运受损",
+    "url": "https://www.xbiquge.cc/book/24276/18774707.html",
+    "origetitle": "第一百九十九章 国运受损"
+  },
+  {
+    "title": "200待遇之差",
+    "url": "https://www.xbiquge.cc/book/24276/18813199.html",
+    "origetitle": "第两百章 待遇之差"
+  },
+  {
+    "title": null,
+    "url": "https://www.xbiquge.cc/book/24276/18818873.html",
+    "origetitle": "今天一章。"
+  },
+  {
+    "title": "201苍玄老祖",
+    "url": "https://www.xbiquge.cc/book/24276/18846602.html",
+    "origetitle": "第两百零一章 苍玄老祖"
+  },
+  {
+    "title": "202圣族",
+    "url": "https://www.xbiquge.cc/book/24276/18868060.html",
+    "origetitle": "第两百零二章 圣族"
+  },
+  {
+    "title": "203四道圣纹",
+    "url": "https://www.xbiquge.cc/book/24276/18958264.html",
+    "origetitle": "第两百零三章 四道圣纹"
+  },
+  {
+    "title": "204一步登太初",
+    "url": "https://www.xbiquge.cc/book/24276/18977473.html",
+    "origetitle": "第两百零四章 一步登太初"
+  },
+  {
+    "title": "205圣迹结束",
+    "url": "https://www.xbiquge.cc/book/24276/19047594.html",
+    "origetitle": "第两百零五章 圣迹结束"
+  },
+  {
+    "title": "206入宗门",
+    "url": "https://www.xbiquge.cc/book/24276/19087275.html",
+    "origetitle": "第两百零六章 入宗门"
+  },
+  {
+    "title": "207一掌",
+    "url": "https://www.xbiquge.cc/book/24276/19124253.html",
+    "origetitle": "第两百零七章 一掌"
+  },
+  {
+    "title": "208离去之前",
+    "url": "https://www.xbiquge.cc/book/24276/19128404.html",
+    "origetitle": "第两百零八章 离去之前"
+  },
+  {
+    "title": "209苍玄气运，圣州六分",
+    "url": "https://www.xbiquge.cc/book/24276/19168103.html",
+    "origetitle": "第两百零九章 苍玄气运，圣州六分"
+  },
+  {
+    "title": "210弟子三等",
+    "url": "https://www.xbiquge.cc/book/24276/19194367.html",
+    "origetitle": "第两百一十章 弟子三等"
+  },
+  {
+    "title": "211沈万金",
+    "url": "https://www.xbiquge.cc/book/24276/19244183.html",
+    "origetitle": "第两百一十一章 沈万金"
+  },
+  {
+    "title": "212入苍玄",
+    "url": "https://www.xbiquge.cc/book/24276/19270971.html",
+    "origetitle": "第两百一十二章 入苍玄"
+  },
+  {
+    "title": "213罗松",
+    "url": "https://www.xbiquge.cc/book/24276/19272723.html",
+    "origetitle": "第两百一十三章 罗松"
+  },
+  {
+    "title": "214一等",
+    "url": "https://www.xbiquge.cc/book/24276/19306890.html",
+    "origetitle": "第两百一十四章 一等"
+  },
+  {
+    "title": "215小楼",
+    "url": "https://www.xbiquge.cc/book/24276/19322108.html",
+    "origetitle": "第两百一十五章 小楼"
+  },
+  {
+    "title": "216拉帮结派",
+    "url": "https://www.xbiquge.cc/book/24276/19326703.html",
+    "origetitle": "第两百一十六章 拉帮结派"
+  },
+  {
+    "title": "217源山",
+    "url": "https://www.xbiquge.cc/book/24276/19357835.html",
+    "origetitle": "第两百一十七章 源山"
+  },
+  {
+    "title": "218一拳足矣",
+    "url": "https://www.xbiquge.cc/book/24276/19362081.html",
+    "origetitle": "第两百一十八章 一拳足矣"
+  },
+  {
+    "title": "219立威",
+    "url": "https://www.xbiquge.cc/book/24276/19383595.html",
+    "origetitle": "第两百第一十九章 立威"
+  },
+  {
+    "title": "220太初天",
+    "url": "https://www.xbiquge.cc/book/24276/19386030.html",
+    "origetitle": "第两百二十章 太初天"
+  },
+  {
+    "title": "221第一次搬运",
+    "url": "https://www.xbiquge.cc/book/24276/19399224.html",
+    "origetitle": "第两百二十一章 第一次搬运"
+  },
+  {
+    "title": "222源气星辰",
+    "url": "https://www.xbiquge.cc/book/24276/19401770.html",
+    "origetitle": "第两百二十二章 源气星辰"
+  },
+  {
+    "title": "223源玉的重要",
+    "url": "https://www.xbiquge.cc/book/24276/19415636.html",
+    "origetitle": "第两百二十三章 源玉的重要"
+  },
+  {
+    "title": "224化解",
+    "url": "https://www.xbiquge.cc/book/24276/19446914.html",
+    "origetitle": "第两百二十四章 化解"
+  },
+  {
+    "title": "225化虚术",
+    "url": "https://www.xbiquge.cc/book/24276/19450417.html",
+    "origetitle": "第两百二十五章 化虚术"
+  },
+  {
+    "title": "226祝岳",
+    "url": "https://www.xbiquge.cc/book/24276/19513672.html",
+    "origetitle": "第两百二十六章 祝岳"
+  },
+  {
+    "title": "227报复",
+    "url": "https://www.xbiquge.cc/book/24276/19527239.html",
+    "origetitle": "第两百二十七章 报复"
+  },
+  {
+    "title": "228窍穴",
+    "url": "https://www.xbiquge.cc/book/24276/19581490.html",
+    "origetitle": "第两百二十八章 窍穴"
+  },
+  {
+    "title": "229赚源玉",
+    "url": "https://www.xbiquge.cc/book/24276/19583983.html",
+    "origetitle": "第两百二十九章 赚源玉"
+  },
+  {
+    "title": "230说服",
+    "url": "https://www.xbiquge.cc/book/24276/19602882.html",
+    "origetitle": "第两百三十章 说服"
+  },
+  {
+    "title": "231本事",
+    "url": "https://www.xbiquge.cc/book/24276/19606258.html",
+    "origetitle": "第两百三十一章 本事"
+  },
+  {
+    "title": null,
+    "url": "https://www.xbiquge.cc/book/24276/19634589.html",
+    "origetitle": "第两百三十二章"
+  },
+  {
+    "title": "233金刚不坏",
+    "url": "https://www.xbiquge.cc/book/24276/19651972.html",
+    "origetitle": "第两百三十三章 金刚不坏"
+  },
+  {
+    "title": "234打一群",
+    "url": "https://www.xbiquge.cc/book/24276/19655054.html",
+    "origetitle": "第两百三十四章 打一群"
+  },
+  {
+    "title": "235周元的反击",
+    "url": "https://www.xbiquge.cc/book/24276/19663401.html",
+    "origetitle": "第两百三十五章 周元的反击"
+  },
+  {
+    "title": "236轰动",
+    "url": "https://www.xbiquge.cc/book/24276/19676894.html",
+    "origetitle": "第两百三十六章 轰动"
+  },
+  {
+    "title": "237当众出手",
+    "url": "https://www.xbiquge.cc/book/24276/19681058.html",
+    "origetitle": "第两百三十七章 当众出手"
+  },
+  {
+    "title": "238收获大丰",
+    "url": "https://www.xbiquge.cc/book/24276/19700414.html",
+    "origetitle": "第两百三十八章 收获大丰"
+  },
+  {
+    "title": "239灰衣老者",
+    "url": "https://www.xbiquge.cc/book/24276/19708545.html",
+    "origetitle": "第两百三十九章 灰衣老者"
+  },
+  {
+    "title": "240祝岳的手段",
+    "url": "https://www.xbiquge.cc/book/24276/19756602.html",
+    "origetitle": "第两百四十章 祝岳的手段"
+  },
+  {
+    "title": "241宗冥",
+    "url": "https://www.xbiquge.cc/book/24276/19762955.html",
+    "origetitle": "第两百四十一章 宗冥"
+  },
+  {
+    "title": "242比试至",
+    "url": "https://www.xbiquge.cc/book/24276/19818684.html",
+    "origetitle": "第两百四十二章 比试至"
+  },
+  {
+    "title": "243青山比化虚",
+    "url": "https://www.xbiquge.cc/book/24276/19832423.html",
+    "origetitle": "第两百四十三章 青山比化虚"
+  },
+  {
+    "title": "244风驰电掣",
+    "url": "https://www.xbiquge.cc/book/24276/19872376.html",
+    "origetitle": "第两百四十四章 风驰电掣"
+  },
+  {
+    "title": null,
+    "url": "https://www.xbiquge.cc/book/24276/19884255.html",
+    "origetitle": "今天一更，勿等。"
+  },
+  {
+    "title": "245实境",
+    "url": "https://www.xbiquge.cc/book/24276/19926988.html",
+    "origetitle": "第两百四十五章 实境"
+  },
+  {
+    "title": "246取胜",
+    "url": "https://www.xbiquge.cc/book/24276/19934204.html",
+    "origetitle": "第两百四十六章 取胜"
+  },
+  {
+    "title": "247九龙典",
+    "url": "https://www.xbiquge.cc/book/24276/19945439.html",
+    "origetitle": "第两百四十七章 九龙典"
+  },
+  {
+    "title": "248冲突",
+    "url": "https://www.xbiquge.cc/book/24276/19961611.html",
+    "origetitle": "第两百四十八章 冲突"
+  },
+  {
+    "title": "249瓜分名额",
+    "url": "https://www.xbiquge.cc/book/24276/19965989.html",
+    "origetitle": "第两百四十九章 瓜分名额"
+  },
+  {
+    "title": "250龙属源兽精血",
+    "url": "https://www.xbiquge.cc/book/24276/19975658.html",
+    "origetitle": "第两百五十章 龙属源兽精血"
+  },
+  {
+    "title": "251五品",
+    "url": "https://www.xbiquge.cc/book/24276/19979831.html",
+    "origetitle": "第两百五十一章 五品"
+  },
+  {
+    "title": "251取血",
+    "url": "https://www.xbiquge.cc/book/24276/19991770.html",
+    "origetitle": "第两百五十一章 取血"
+  },
+  {
+    "title": "252炼化精血",
+    "url": "https://www.xbiquge.cc/book/24276/19994588.html",
+    "origetitle": "第两百五十二章 炼化精血"
+  },
+  {
+    "title": "253应对之法",
+    "url": "https://www.xbiquge.cc/book/24276/20007316.html",
+    "origetitle": "第两百五十三章 应对之法"
+  },
+  {
+    "title": "254显手段",
+    "url": "https://www.xbiquge.cc/book/24276/20008699.html",
+    "origetitle": "第两百五十四章 显手段"
+  },
+  {
+    "title": "255上门的麻烦",
+    "url": "https://www.xbiquge.cc/book/24276/20030649.html",
+    "origetitle": "第两百五十五章 上门的麻烦"
+  },
+  {
+    "title": "256镇压",
+    "url": "https://www.xbiquge.cc/book/24276/20030650.html",
+    "origetitle": "第两百五十六章 镇压"
+  },
+  {
+    "title": null,
+    "url": "https://www.xbiquge.cc/book/24276/20049728.html",
+    "origetitle": "第两百五十七章"
+  },
+  {
+    "title": "258指点",
+    "url": "https://www.xbiquge.cc/book/24276/20061512.html",
+    "origetitle": "第两百五十八章 指点"
+  },
+  {
+    "title": "259隐秘",
+    "url": "https://www.xbiquge.cc/book/24276/20106796.html",
+    "origetitle": "第两百五十九章 隐秘"
+  },
+  {
+    "title": "260陆玄音",
+    "url": "https://www.xbiquge.cc/book/24276/20131270.html",
+    "origetitle": "第两百六十章 陆玄音"
+  },
+  {
+    "title": "261玩什么",
+    "url": "https://www.xbiquge.cc/book/24276/20169754.html",
+    "origetitle": "第两百六十一章 玩什么"
+  },
+  {
+    "title": "262夭夭出手",
+    "url": "https://www.xbiquge.cc/book/24276/20191275.html",
+    "origetitle": "第两百六十二章 夭夭出手"
+  },
+  {
+    "title": "263震慑",
+    "url": "https://www.xbiquge.cc/book/24276/20199684.html",
+    "origetitle": "第两百六十三章 震慑"
+  },
+  {
+    "title": "264大典至",
+    "url": "https://www.xbiquge.cc/book/24276/20203398.html",
+    "origetitle": "第两百六十四章 大典至"
+  },
+  {
+    "title": "265六大巨头",
+    "url": "https://www.xbiquge.cc/book/24276/20214059.html",
+    "origetitle": "第两百六十五章 六大巨头"
+  },
+  {
+    "title": "266大典开始",
+    "url": "https://www.xbiquge.cc/book/24276/20221844.html",
+    "origetitle": "第两百六十六章 大典开始"
+  },
+  {
+    "title": "267首席之争",
+    "url": "https://www.xbiquge.cc/book/24276/20232327.html",
+    "origetitle": "第两百六十七章 首席之争"
+  },
+  {
+    "title": "268红衣相助",
+    "url": "https://www.xbiquge.cc/book/24276/20235965.html",
+    "origetitle": "第两百六十八章 红衣相助"
+  },
+  {
+    "title": "269风海术",
+    "url": "https://www.xbiquge.cc/book/24276/20256570.html",
+    "origetitle": "第两百六十九章 风海术"
+  },
+  {
+    "title": "270底牌层出",
+    "url": "https://www.xbiquge.cc/book/24276/20322182.html",
+    "origetitle": "第两百七十章 底牌层出"
+  },
+  {
+    "title": "271天元笔的进化",
+    "url": "https://www.xbiquge.cc/book/24276/20382293.html",
+    "origetitle": "第两百七十一章 天元笔的进化"
+  },
+  {
+    "title": "272第四纹，万鲸",
+    "url": "https://www.xbiquge.cc/book/24276/20387725.html",
+    "origetitle": "第两百七十二章 第四纹，万鲸"
+  },
+  {
+    "title": "273九龙典之威",
+    "url": "https://www.xbiquge.cc/book/24276/20412407.html",
+    "origetitle": "第两百七十三章 九龙典之威"
+  },
+  {
+    "title": "274突破",
+    "url": "https://www.xbiquge.cc/book/24276/20416830.html",
+    "origetitle": "第两百七十四章 突破"
+  },
+  {
+    "title": "275大典第一",
+    "url": "https://www.xbiquge.cc/book/24276/20473953.html",
+    "origetitle": "第两百七十五章 大典第一"
+  },
+  {
+    "title": "276择峰",
+    "url": "https://www.xbiquge.cc/book/24276/20492770.html",
+    "origetitle": "第两百七十六章 择峰"
+  },
+  {
+    "title": "276奖赏",
+    "url": "https://www.xbiquge.cc/book/24276/20546603.html",
+    "origetitle": "第两百七十六章 奖赏"
+  },
+  {
+    "title": "277大典落幕",
+    "url": "https://www.xbiquge.cc/book/24276/20564633.html",
+    "origetitle": "第两百七十七章 大典落幕"
+  },
+  {
+    "title": "278圣子峰",
+    "url": "https://www.xbiquge.cc/book/24276/20582525.html",
+    "origetitle": "第两百七十八章 圣子峰"
+  },
+  {
+    "title": "279扫山人",
+    "url": "https://www.xbiquge.cc/book/24276/20594093.html",
+    "origetitle": "第两百七十九章 扫山人"
+  },
+  {
+    "title": "280封印的主峰",
+    "url": "https://www.xbiquge.cc/book/24276/20606744.html",
+    "origetitle": "第两百八十章 封印的主峰"
+  },
+  {
+    "title": "281选脉入门",
+    "url": "https://www.xbiquge.cc/book/24276/20618965.html",
+    "origetitle": "第两百八十一章 选脉入门"
+  },
+  {
+    "title": "282金带弟子",
+    "url": "https://www.xbiquge.cc/book/24276/20679496.html",
+    "origetitle": "第两百八十二章 金带弟子"
+  },
+  {
+    "title": "283紫源洞府",
+    "url": "https://www.xbiquge.cc/book/24276/20736649.html",
+    "origetitle": "第两百八十三章 紫源洞府"
+  },
+  {
+    "title": "284洞试",
+    "url": "https://www.xbiquge.cc/book/24276/20776739.html",
+    "origetitle": "第两百八十四章 洞试"
+  },
+  {
+    "title": "285曹狮",
+    "url": "https://www.xbiquge.cc/book/24276/20796989.html",
+    "origetitle": "第两百八十五章 曹狮"
+  },
+  {
+    "title": "286金带第三席",
+    "url": "https://www.xbiquge.cc/book/24276/20813356.html",
+    "origetitle": "第两百八十六章 金带第三席"
+  },
+  {
+    "title": "287请缨",
+    "url": "https://www.xbiquge.cc/book/24276/20834755.html",
+    "origetitle": "第两百八十七章 请缨"
+  },
+  {
+    "title": "288一场较量",
+    "url": "https://www.xbiquge.cc/book/24276/20896346.html",
+    "origetitle": "第两百八十八章 一场较量"
+  },
+  {
+    "title": "289夺圣战",
+    "url": "https://www.xbiquge.cc/book/24276/20924686.html",
+    "origetitle": "第两百八十九章 夺圣战"
+  },
+  {
+    "title": "290太初壁",
+    "url": "https://www.xbiquge.cc/book/24276/20946256.html",
+    "origetitle": "第两百九十章 太初壁"
+  },
+  {
+    "title": "291历代第一",
+    "url": "https://www.xbiquge.cc/book/24276/20966022.html",
+    "origetitle": "第两百九十一章 历代第一"
+  },
+  {
+    "title": "292六千七百息的震撼",
+    "url": "https://www.xbiquge.cc/book/24276/21017266.html",
+    "origetitle": "第两百九十二章 六千七百息的震撼"
+  },
+  {
+    "title": "293两脉反应",
+    "url": "https://www.xbiquge.cc/book/24276/21031333.html",
+    "origetitle": "第两百九十三章 两脉反应"
+  },
+  {
+    "title": "294准备",
+    "url": "https://www.xbiquge.cc/book/24276/21059450.html",
+    "origetitle": "第两百九十四章 准备"
+  },
+  {
+    "title": "295比试",
+    "url": "https://www.xbiquge.cc/book/24276/21099614.html",
+    "origetitle": "第两百九十五章 比试"
+  },
+  {
+    "title": "296大餐",
+    "url": "https://www.xbiquge.cc/book/24276/21122595.html",
+    "origetitle": "第两百九十六章 大餐"
+  },
+  {
+    "title": "297震慑全场",
+    "url": "https://www.xbiquge.cc/book/24276/21153075.html",
+    "origetitle": "第两百九十七章 震慑全场"
+  },
+  {
+    "title": "298动静",
+    "url": "https://www.xbiquge.cc/book/24276/21156069.html",
+    "origetitle": "第两百九十八章 动静"
+  },
+  {
+    "title": "299洗礼来临",
+    "url": "https://www.xbiquge.cc/book/24276/21170340.html",
+    "origetitle": "第两百九十九章 洗礼来临"
+  },
+  {
+    "title": "300源龙脉",
+    "url": "https://www.xbiquge.cc/book/24276/21176757.html",
+    "origetitle": "第三百章 源龙脉"
+  },
+  {
+    "title": "301龙源髓",
+    "url": "https://www.xbiquge.cc/book/24276/21192592.html",
+    "origetitle": "第三百零一章 龙源髓"
+  },
+  {
+    "title": "302源池开",
+    "url": "https://www.xbiquge.cc/book/24276/21212063.html",
+    "origetitle": "第三百零二章 源池开"
+  },
+  {
+    "title": "303不对劲",
+    "url": "https://www.xbiquge.cc/book/24276/21222270.html",
+    "origetitle": "第三百零三章 不对劲"
+  },
+  {
+    "title": "304围杀",
+    "url": "https://www.xbiquge.cc/book/24276/21259493.html",
+    "origetitle": "第三百零四章 围杀"
+  },
+  {
+    "title": "305打手",
+    "url": "https://www.xbiquge.cc/book/24276/21269405.html",
+    "origetitle": "第三百零五章 打手"
+  },
+  {
+    "title": "306完美合作",
+    "url": "https://www.xbiquge.cc/book/24276/21287160.html",
+    "origetitle": "第三百零六章 完美合作"
+  },
+  {
+    "title": "307圣子之斗",
+    "url": "https://www.xbiquge.cc/book/24276/21289752.html",
+    "origetitle": "第三百零七章 圣子之斗"
+  },
+  {
+    "title": "308祸从水中来",
+    "url": "https://www.xbiquge.cc/book/24276/21300096.html",
+    "origetitle": "第三百零八章 祸从水中来"
+  },
+  {
+    "title": "309追杀",
+    "url": "https://www.xbiquge.cc/book/24276/21303395.html",
+    "origetitle": "第三百零九章 追杀"
+  },
+  {
+    "title": "310两女对峙",
+    "url": "https://www.xbiquge.cc/book/24276/21320509.html",
+    "origetitle": "第三百一十章 两女对峙"
+  },
+  {
+    "title": "311调节",
+    "url": "https://www.xbiquge.cc/book/24276/21325358.html",
+    "origetitle": "第三百一十一章 调节"
+  },
+  {
+    "title": "312合作",
+    "url": "https://www.xbiquge.cc/book/24276/21338212.html",
+    "origetitle": "第三百一十二章 合作"
+  },
+  {
+    "title": "313两女联手",
+    "url": "https://www.xbiquge.cc/book/24276/21340470.html",
+    "origetitle": "第三百一十三章 两女联手"
+  },
+  {
+    "title": "314纠缠",
+    "url": "https://www.xbiquge.cc/book/24276/21354521.html",
+    "origetitle": "第三百一十四章 纠缠"
+  },
+  {
+    "title": "315两女斗双圣",
+    "url": "https://www.xbiquge.cc/book/24276/21373648.html",
+    "origetitle": "第三百一十五章 两女斗双圣"
+  },
+  {
+    "title": "316办法",
+    "url": "https://www.xbiquge.cc/book/24276/21376994.html",
+    "origetitle": "第三百一十六章 办法"
+  },
+  {
+    "title": "317改造源纹结界",
+    "url": "https://www.xbiquge.cc/book/24276/21402170.html",
+    "origetitle": "第三百一十七章 改造源纹结界"
+  },
+  {
+    "title": "318得手",
+    "url": "https://www.xbiquge.cc/book/24276/21404673.html",
+    "origetitle": "第三百一十八章 得手"
+  },
+  {
+    "title": "319得罪",
+    "url": "https://www.xbiquge.cc/book/24276/21412195.html",
+    "origetitle": "第三百一十九章 得罪"
+  },
+  {
+    "title": "320诱饵",
+    "url": "https://www.xbiquge.cc/book/24276/21418626.html",
+    "origetitle": "第三百二十章 诱饵"
+  },
+  {
+    "title": "321到手",
+    "url": "https://www.xbiquge.cc/book/24276/21430889.html",
+    "origetitle": "第三百二十一章 到手"
+  },
+  {
+    "title": "322洗礼开",
+    "url": "https://www.xbiquge.cc/book/24276/21430890.html",
+    "origetitle": "第三百二十二章 洗礼开"
+  },
+  {
+    "title": "323八龙再现",
+    "url": "https://www.xbiquge.cc/book/24276/21440776.html",
+    "origetitle": "第三百二十三章 八龙再现"
+  },
+  {
+    "title": "324相助",
+    "url": "https://www.xbiquge.cc/book/24276/21444127.html",
+    "origetitle": "第三百二十四章 相助"
+  },
+  {
+    "title": "325六龙周泰",
+    "url": "https://www.xbiquge.cc/book/24276/21452823.html",
+    "origetitle": "第三百二十五章 六龙周泰"
+  },
+  {
+    "title": "326何为震撼",
+    "url": "https://www.xbiquge.cc/book/24276/21457698.html",
+    "origetitle": "第三百二十六章 何为震撼"
+  },
+  {
+    "title": "327三重天",
+    "url": "https://www.xbiquge.cc/book/24276/21464337.html",
+    "origetitle": "第三百二十七章 三重天"
+  },
+  {
+    "title": "328评价",
+    "url": "https://www.xbiquge.cc/book/24276/21479905.html",
+    "origetitle": "第三百二十八章 评价"
+  },
+  {
+    "title": "329圣源峰的轰动",
+    "url": "https://www.xbiquge.cc/book/24276/21521699.html",
+    "origetitle": "第三百二十九章 圣源峰的轰动"
+  },
+  {
+    "title": "330洞试的动静",
+    "url": "https://www.xbiquge.cc/book/24276/21539941.html",
+    "origetitle": "第三百三十章 洞试的动静"
+  },
+  {
+    "title": "331洞试开始",
+    "url": "https://www.xbiquge.cc/book/24276/21559456.html",
+    "origetitle": "第三百三十一章 洞试开始"
+  },
+  {
+    "title": "332破源手",
+    "url": "https://www.xbiquge.cc/book/24276/21611255.html",
+    "origetitle": "第三百三十二章 破源手"
+  },
+  {
+    "title": "333六重天",
+    "url": "https://www.xbiquge.cc/book/24276/21631156.html",
+    "origetitle": "第三百三十三章 六重天"
+  },
+  {
+    "title": "334下来",
+    "url": "https://www.xbiquge.cc/book/24276/21680640.html",
+    "origetitle": "第三百三十四章 下来"
+  },
+  {
+    "title": "335一拳之威",
+    "url": "https://www.xbiquge.cc/book/24276/21699607.html",
+    "origetitle": "第三百三十五章 一拳之威"
+  },
+  {
+    "title": "336周元的实力",
+    "url": "https://www.xbiquge.cc/book/24276/21722873.html",
+    "origetitle": "第三百三十六章 周元的实力"
+  },
+  {
+    "title": "337玄蛟鳞",
+    "url": "https://www.xbiquge.cc/book/24276/21727447.html",
+    "origetitle": "第三百三十七章 玄蛟鳞"
+  },
+  {
+    "title": "338大黑魔",
+    "url": "https://www.xbiquge.cc/book/24276/21774563.html",
+    "origetitle": "第三百三十八章 大黑魔"
+  },
+  {
+    "title": "339九龙",
+    "url": "https://www.xbiquge.cc/book/24276/21786538.html",
+    "origetitle": "第三百三十九章 九龙"
+  },
+  {
+    "title": "340九龙灭黑魔",
+    "url": "https://www.xbiquge.cc/book/24276/21798099.html",
+    "origetitle": "第三百四十章 九龙灭黑魔"
+  },
+  {
+    "title": "341四大境界",
+    "url": "https://www.xbiquge.cc/book/24276/21801573.html",
+    "origetitle": "第三百四十一章 四大境界"
+  },
+  {
+    "title": "342轰动",
+    "url": "https://www.xbiquge.cc/book/24276/21848845.html",
+    "origetitle": "第三百四十二章 轰动"
+  },
+  {
+    "title": "343奖赏",
+    "url": "https://www.xbiquge.cc/book/24276/21854780.html",
+    "origetitle": "第三百四十三章 奖赏"
+  },
+  {
+    "title": "344紫带选拔",
+    "url": "https://www.xbiquge.cc/book/24276/21918993.html",
+    "origetitle": "第三百四十四章 紫带选拔"
+  },
+  {
+    "title": "345徐炎的手段",
+    "url": "https://www.xbiquge.cc/book/24276/21940005.html",
+    "origetitle": "第三百四十五章 徐炎的手段"
+  },
+  {
+    "title": "346源星丹",
+    "url": "https://www.xbiquge.cc/book/24276/21953797.html",
+    "origetitle": "第三百四十六章 源星丹"
+  },
+  {
+    "title": "347灵纹殿前",
+    "url": "https://www.xbiquge.cc/book/24276/21973183.html",
+    "origetitle": "第三百四十七章 灵纹殿前"
+  },
+  {
+    "title": "348挑战灵纹峰",
+    "url": "https://www.xbiquge.cc/book/24276/21989002.html",
+    "origetitle": "第三百四十八章 挑战灵纹峰"
+  },
+  {
+    "title": "349联手入阵",
+    "url": "https://www.xbiquge.cc/book/24276/22018964.html",
+    "origetitle": "第三百四十九章 联手入阵"
+  },
+  {
+    "title": "355两位镇守者",
+    "url": "https://www.xbiquge.cc/book/24276/22030309.html",
+    "origetitle": "第三百五十五章 两位镇守者"
+  },
+  {
+    "title": "351金章，夏雨",
+    "url": "https://www.xbiquge.cc/book/24276/22033491.html",
+    "origetitle": "第三百五十一章 金章，夏雨"
+  },
+  {
+    "title": "352源纹斗（上）",
+    "url": "https://www.xbiquge.cc/book/24276/22044711.html",
+    "origetitle": "第三百五十二章 源纹斗（上）"
+  },
+  {
+    "title": "353源纹斗（下）",
+    "url": "https://www.xbiquge.cc/book/24276/22046977.html",
+    "origetitle": "第三百五十三章 源纹斗（下）"
+  },
+  {
+    "title": "354夭夭的手段",
+    "url": "https://www.xbiquge.cc/book/24276/22056931.html",
+    "origetitle": "第三百五十四章 夭夭的手段"
+  },
+  {
+    "title": "355神魂压制",
+    "url": "https://www.xbiquge.cc/book/24276/22059474.html",
+    "origetitle": "第三百五十五章 神魂压制"
+  },
+  {
+    "title": "356神魂托印",
+    "url": "https://www.xbiquge.cc/book/24276/22069576.html",
+    "origetitle": "第三百五十六章 神魂托印"
+  },
+  {
+    "title": "357突破，实境中期！",
+    "url": "https://www.xbiquge.cc/book/24276/22079304.html",
+    "origetitle": "第三百五十七章 突破，实境中期！"
+  },
+  {
+    "title": "358破阵",
+    "url": "https://www.xbiquge.cc/book/24276/22084131.html",
+    "origetitle": "第三百五十八章 破阵"
+  },
+  {
+    "title": "359入殿",
+    "url": "https://www.xbiquge.cc/book/24276/22097505.html",
+    "origetitle": "第三百五十九章 入殿"
+  },
+  {
+    "title": "360捧杀",
+    "url": "https://www.xbiquge.cc/book/24276/22124210.html",
+    "origetitle": "第三百六十章 捧杀"
+  },
+  {
+    "title": "361桃夭酿",
+    "url": "https://www.xbiquge.cc/book/24276/22124211.html",
+    "origetitle": "第三百六十一章 桃夭酿"
+  },
+  {
+    "title": "362选拔之前",
+    "url": "https://www.xbiquge.cc/book/24276/22124212.html",
+    "origetitle": "第三百六十二章 选拔之前"
+  },
+  {
+    "title": "363开启",
+    "url": "https://www.xbiquge.cc/book/24276/22124215.html",
+    "origetitle": "第三百六十三章 开启"
+  },
+  {
+    "title": "364选拔之争",
+    "url": "https://www.xbiquge.cc/book/24276/22124217.html",
+    "origetitle": "第三百六十四章 选拔之争"
+  },
+  {
+    "title": "365一拳",
+    "url": "https://www.xbiquge.cc/book/24276/22156574.html",
+    "origetitle": "第三百六十五章 一拳"
+  },
+  {
+    "title": "366围猎",
+    "url": "https://www.xbiquge.cc/book/24276/22168948.html",
+    "origetitle": "第三百六十六章 围猎"
+  },
+  {
+    "title": "367剑锁谷",
+    "url": "https://www.xbiquge.cc/book/24276/22181737.html",
+    "origetitle": "第三百六十七章 剑锁谷"
+  },
+  {
+    "title": "368化虚隐匿",
+    "url": "https://www.xbiquge.cc/book/24276/22198372.html",
+    "origetitle": "第三百六十八章 化虚隐匿"
+  },
+  {
+    "title": "369结界",
+    "url": "https://www.xbiquge.cc/book/24276/22207248.html",
+    "origetitle": "第三百六十九章 结界"
+  },
+  {
+    "title": "370雷火罩山谷",
+    "url": "https://www.xbiquge.cc/book/24276/22209617.html",
+    "origetitle": "第三百七十章 雷火罩山谷"
+  },
+  {
+    "title": "371天雷玄火之威",
+    "url": "https://www.xbiquge.cc/book/24276/22220379.html",
+    "origetitle": "第三百七十一章 天雷玄火之威"
+  },
+  {
+    "title": "372团灭剑来峰",
+    "url": "https://www.xbiquge.cc/book/24276/22222668.html",
+    "origetitle": "第三百七十二章 团灭剑来峰"
+  },
+  {
+    "title": "373十峰之下",
+    "url": "https://www.xbiquge.cc/book/24276/22237600.html",
+    "origetitle": "第三百七十三章 十峰之下"
+  },
+  {
+    "title": "374前十",
+    "url": "https://www.xbiquge.cc/book/24276/22264955.html",
+    "origetitle": "第三百七十四章 前十"
+  },
+  {
+    "title": "375魁首之争",
+    "url": "https://www.xbiquge.cc/book/24276/22274516.html",
+    "origetitle": "第三百七十五章 魁首之争"
+  },
+  {
+    "title": "376力斗徐炎",
+    "url": "https://www.xbiquge.cc/book/24276/22293051.html",
+    "origetitle": "第三百七十六章 力斗徐炎"
+  },
+  {
+    "title": "377月陨术",
+    "url": "https://www.xbiquge.cc/book/24276/22310928.html",
+    "origetitle": "第三百七十七章 月陨术"
+  },
+  {
+    "title": "378源气对拼",
+    "url": "https://www.xbiquge.cc/book/24276/22313592.html",
+    "origetitle": "第三百七十八章 源气对拼"
+  },
+  {
+    "title": "379霸道的怨龙毒",
+    "url": "https://www.xbiquge.cc/book/24276/22326102.html",
+    "origetitle": "第三百七十九章 霸道的怨龙毒"
+  },
+  {
+    "title": "380魁首",
+    "url": "https://www.xbiquge.cc/book/24276/22332125.html",
+    "origetitle": "第三百八十章 魁首"
+  },
+  {
+    "title": "381剑来峰的惩罚",
+    "url": "https://www.xbiquge.cc/book/24276/22357594.html",
+    "origetitle": "第三百八十一章 剑来峰的惩罚"
+  },
+  {
+    "title": "382赏赐",
+    "url": "https://www.xbiquge.cc/book/24276/22361986.html",
+    "origetitle": "第三百八十二章 赏赐"
+  },
+  {
+    "title": "383昔年小童子",
+    "url": "https://www.xbiquge.cc/book/24276/22380470.html",
+    "origetitle": "第三百八十三章 昔年小童子"
+  },
+  {
+    "title": "384选宝",
+    "url": "https://www.xbiquge.cc/book/24276/22393817.html",
+    "origetitle": "第三百八十四章 选宝"
+  },
+  {
+    "title": "385太乙青木痕",
+    "url": "https://www.xbiquge.cc/book/24276/22396331.html",
+    "origetitle": "第三百八十五章 太乙青木痕"
+  },
+  {
+    "title": "386天功",
+    "url": "https://www.xbiquge.cc/book/24276/22424596.html",
+    "origetitle": "第三百八十六章 天功"
+  },
+  {
+    "title": "387炼化源星丹",
+    "url": "https://www.xbiquge.cc/book/24276/22452824.html",
+    "origetitle": "第三百八十七章 炼化源星丹"
+  },
+  {
+    "title": "388怨龙毒爆发",
+    "url": "https://www.xbiquge.cc/book/24276/22467624.html",
+    "origetitle": "第三百八十八章 怨龙毒爆发"
+  },
+  {
+    "title": "389镇压",
+    "url": "https://www.xbiquge.cc/book/24276/22498341.html",
+    "origetitle": "第三百八十九章 镇压"
+  },
+  {
+    "title": "390两位队长",
+    "url": "https://www.xbiquge.cc/book/24276/22524800.html",
+    "origetitle": "第三百九十章 两位队长"
+  },
+  {
+    "title": "391天级任务",
+    "url": "https://www.xbiquge.cc/book/24276/22528374.html",
+    "origetitle": "第三百九十一章 天级任务"
+  },
+  {
+    "title": "392反对",
+    "url": "https://www.xbiquge.cc/book/24276/22628537.html",
+    "origetitle": "第三百九十二章 反对"
+  },
+  {
+    "title": "393争执",
+    "url": "https://www.xbiquge.cc/book/24276/22680467.html",
+    "origetitle": "第三百九十三章 争执"
+  },
+  {
+    "title": "394一招",
+    "url": "https://www.xbiquge.cc/book/24276/22733841.html",
+    "origetitle": "第三百九十四章 一招"
+  },
+  {
+    "title": "395大金钟",
+    "url": "https://www.xbiquge.cc/book/24276/22780535.html",
+    "origetitle": "第三百九十五章 大金钟"
+  },
+  {
+    "title": "396确定名额",
+    "url": "https://www.xbiquge.cc/book/24276/22803234.html",
+    "origetitle": "第三百九十六章 确定名额"
+  },
+  {
+    "title": "374启程",
+    "url": "https://www.xbiquge.cc/book/24276/22828170.html",
+    "origetitle": "第三百七十四章 启程"
+  },
+  {
+    "title": "397夭夭出山",
+    "url": "https://www.xbiquge.cc/book/24276/22858003.html",
+    "origetitle": "第三百九十七章 夭夭出山"
+  },
+  {
+    "title": "398老熟人",
+    "url": "https://www.xbiquge.cc/book/24276/22870357.html",
+    "origetitle": "第三百九十八章 老熟人"
+  },
+  {
+    "title": "399再见青鱼",
+    "url": "https://www.xbiquge.cc/book/24276/22871010.html",
+    "origetitle": "第三百九十九章 再见青鱼"
+  },
+  {
+    "title": "400分配任务",
+    "url": "https://www.xbiquge.cc/book/24276/22888724.html",
+    "origetitle": "第四百章 分配任务"
+  },
+  {
+    "title": "401赌炎石",
+    "url": "https://www.xbiquge.cc/book/24276/22891858.html",
+    "origetitle": "第四百零一章 赌炎石"
+  },
+  {
+    "title": "402彩头",
+    "url": "https://www.xbiquge.cc/book/24276/22909130.html",
+    "origetitle": "第四百零二章 彩头"
+  },
+  {
+    "title": "403作弊",
+    "url": "https://www.xbiquge.cc/book/24276/22914600.html",
+    "origetitle": "第四百零三章 作弊"
+  },
+  {
+    "title": "404放烟花",
+    "url": "https://www.xbiquge.cc/book/24276/22928622.html",
+    "origetitle": "第四百零四章 放烟花"
+  },
+  {
+    "title": "405通杀",
+    "url": "https://www.xbiquge.cc/book/24276/22931495.html",
+    "origetitle": "第四百零五章 通杀"
+  },
+  {
+    "title": "406闭关",
+    "url": "https://www.xbiquge.cc/book/24276/22943456.html",
+    "origetitle": "第四百零六章 闭关"
+  },
+  {
+    "title": "407太乙初显",
+    "url": "https://www.xbiquge.cc/book/24276/22954228.html",
+    "origetitle": "第四百零七章 太乙初显"
+  },
+  {
+    "title": "408炎髓脉",
+    "url": "https://www.xbiquge.cc/book/24276/22956997.html",
+    "origetitle": "第四百零八章 炎髓脉"
+  },
+  {
+    "title": "409进化之兆",
+    "url": "https://www.xbiquge.cc/book/24276/22964471.html",
+    "origetitle": "第四百零九章 进化之兆"
+  },
+  {
+    "title": "410青鱼示警",
+    "url": "https://www.xbiquge.cc/book/24276/22966435.html",
+    "origetitle": "第四百一十章 青鱼示警"
+  },
+  {
+    "title": "411兽潮袭来",
+    "url": "https://www.xbiquge.cc/book/24276/22976730.html",
+    "origetitle": "第四百一十一章 兽潮袭来"
+  },
+  {
+    "title": "412天元笔的进化",
+    "url": "https://www.xbiquge.cc/book/24276/22991854.html",
+    "origetitle": "第四百一十二章 天元笔的进化"
+  },
+  {
+    "title": "413天元笔之威",
+    "url": "https://www.xbiquge.cc/book/24276/23006046.html",
+    "origetitle": "第四百一十三章 天元笔之威"
+  },
+  {
+    "title": "414第五纹：破源",
+    "url": "https://www.xbiquge.cc/book/24276/23008565.html",
+    "origetitle": "第四百一十四章 第五纹：破源"
+  },
+  {
+    "title": "415圣宫动手",
+    "url": "https://www.xbiquge.cc/book/24276/23019298.html",
+    "origetitle": "第四百一十五章 圣宫动手"
+  },
+  {
+    "title": "416杨玄",
+    "url": "https://www.xbiquge.cc/book/24276/23021875.html",
+    "origetitle": "第四百一十六章 杨玄"
+  },
+  {
+    "title": "417一面倒的局面",
+    "url": "https://www.xbiquge.cc/book/24276/23064482.html",
+    "origetitle": "第四百一十七章 一面倒的局面"
+  },
+  {
+    "title": "418团灭？",
+    "url": "https://www.xbiquge.cc/book/24276/23082759.html",
+    "origetitle": "第四百一十八章 团灭？"
+  },
+  {
+    "title": "419想死啊？",
+    "url": "https://www.xbiquge.cc/book/24276/23102986.html",
+    "origetitle": "第四百一十九章 想死啊？"
+  },
+  {
+    "title": "420周元斗杨玄",
+    "url": "https://www.xbiquge.cc/book/24276/23116617.html",
+    "origetitle": "第四百二十章 周元斗杨玄"
+  },
+  {
+    "title": "421周元显威",
+    "url": "https://www.xbiquge.cc/book/24276/23128478.html",
+    "origetitle": "第四百二十一章 周元显威"
+  },
+  {
+    "title": "422棘手的杨玄",
+    "url": "https://www.xbiquge.cc/book/24276/23138764.html",
+    "origetitle": "第四百二十二章 棘手的杨玄"
+  },
+  {
+    "title": "423八重天？",
+    "url": "https://www.xbiquge.cc/book/24276/23141793.html",
+    "origetitle": "第四百二十三章 八重天？"
+  },
+  {
+    "title": "424手段频出",
+    "url": "https://www.xbiquge.cc/book/24276/23150922.html",
+    "origetitle": "第四百二十四章 手段频出"
+  },
+  {
+    "title": "425一口青火烧骨甲",
+    "url": "https://www.xbiquge.cc/book/24276/23153528.html",
+    "origetitle": "第四百二十五章 一口青火烧骨甲"
+  },
+  {
+    "title": "426力挽狂澜",
+    "url": "https://www.xbiquge.cc/book/24276/23162494.html",
+    "origetitle": "第四百二十六章 力挽狂澜"
+  },
+  {
+    "title": "427圆满",
+    "url": "https://www.xbiquge.cc/book/24276/23165731.html",
+    "origetitle": "第四百二十七章 圆满"
+  },
+  {
+    "title": "428论功",
+    "url": "https://www.xbiquge.cc/book/24276/23202395.html",
+    "origetitle": "第四百二十八章 论功"
+  },
+  {
+    "title": "429回宗",
+    "url": "https://www.xbiquge.cc/book/24276/23213849.html",
+    "origetitle": "第四百二十九章 回宗"
+  },
+  {
+    "title": "430轰动",
+    "url": "https://www.xbiquge.cc/book/24276/23225546.html",
+    "origetitle": "第四百三十章 轰动"
+  },
+  {
+    "title": "431参与首席之争",
+    "url": "https://www.xbiquge.cc/book/24276/23235308.html",
+    "origetitle": "第四百三十一章 参与首席之争"
+  },
+  {
+    "title": "432兑换天功",
+    "url": "https://www.xbiquge.cc/book/24276/23238079.html",
+    "origetitle": "第四百三十二章 兑换天功"
+  },
+  {
+    "title": "433小玄圣体",
+    "url": "https://www.xbiquge.cc/book/24276/23254180.html",
+    "origetitle": "第四百三十三章 小玄圣体"
+  },
+  {
+    "title": "434龙鳞槐树",
+    "url": "https://www.xbiquge.cc/book/24276/23255999.html",
+    "origetitle": "第四百三十四章 龙鳞槐树"
+  },
+  {
+    "title": "435取鳞",
+    "url": "https://www.xbiquge.cc/book/24276/23268038.html",
+    "origetitle": "第四百三十五章 取鳞"
+  },
+  {
+    "title": "436夭夭归来",
+    "url": "https://www.xbiquge.cc/book/24276/23289197.html",
+    "origetitle": "第四百三十六章 夭夭归来"
+  },
+  {
+    "title": "437楚青",
+    "url": "https://www.xbiquge.cc/book/24276/23291463.html",
+    "origetitle": "第四百三十七章 楚青"
+  },
+  {
+    "title": "438充实的洞府",
+    "url": "https://www.xbiquge.cc/book/24276/23303057.html",
+    "origetitle": "第四百三十八章 充实的洞府"
+  },
+  {
+    "title": "439名额确定",
+    "url": "https://www.xbiquge.cc/book/24276/23314856.html",
+    "origetitle": "第四百三十九章 名额确定"
+  },
+  {
+    "title": "440水火锻龙台",
+    "url": "https://www.xbiquge.cc/book/24276/23326035.html",
+    "origetitle": "第四百四十章 水火锻龙台"
+  },
+  {
+    "title": "441言谈交锋",
+    "url": "https://www.xbiquge.cc/book/24276/23336926.html",
+    "origetitle": "第四百四十一章 言谈交锋"
+  },
+  {
+    "title": "442议论",
+    "url": "https://www.xbiquge.cc/book/24276/23346313.html",
+    "origetitle": "第四百四十二章 议论"
+  },
+  {
+    "title": "443议事殿",
+    "url": "https://www.xbiquge.cc/book/24276/23358273.html",
+    "origetitle": "第四百四十三章 议事殿"
+  },
+  {
+    "title": "444玉皮境",
+    "url": "https://www.xbiquge.cc/book/24276/23366406.html",
+    "origetitle": "第四百四十四章 玉皮境"
+  },
+  {
+    "title": "445冲突",
+    "url": "https://www.xbiquge.cc/book/24276/23369642.html",
+    "origetitle": "第四百四十五章 冲突"
+  },
+  {
+    "title": "446吴海",
+    "url": "https://www.xbiquge.cc/book/24276/23374588.html",
+    "origetitle": "第四百四十六章 吴海"
+  },
+  {
+    "title": "447一拳",
+    "url": "https://www.xbiquge.cc/book/24276/23375164.html",
+    "origetitle": "第四百四十七章 一拳"
+  },
+  {
+    "title": "448强硬的周元",
+    "url": "https://www.xbiquge.cc/book/24276/23390411.html",
+    "origetitle": "第四百四十八章 强硬的周元"
+  },
+  {
+    "title": "449袁洪之强",
+    "url": "https://www.xbiquge.cc/book/24276/23415837.html",
+    "origetitle": "第四百四十九章 袁洪之强"
+  },
+  {
+    "title": "450影响",
+    "url": "https://www.xbiquge.cc/book/24276/23430334.html",
+    "origetitle": "第四百五十章 影响"
+  },
+  {
+    "title": "451第三级",
+    "url": "https://www.xbiquge.cc/book/24276/23439545.html",
+    "origetitle": "第四百五十一章 第三级"
+  },
+  {
+    "title": "452夭夭的怒火",
+    "url": "https://www.xbiquge.cc/book/24276/23441464.html",
+    "origetitle": "第四百五十二章 夭夭的怒火"
+  },
+  {
+    "title": "453谈话",
+    "url": "https://www.xbiquge.cc/book/24276/23449926.html",
+    "origetitle": "第四百五十三章 谈话"
+  },
+  {
+    "title": "454首席峰",
+    "url": "https://www.xbiquge.cc/book/24276/23451522.html",
+    "origetitle": "第四百五十四章 首席峰"
+  },
+  {
+    "title": "455十圣子",
+    "url": "https://www.xbiquge.cc/book/24276/23461205.html",
+    "origetitle": "第四百五十五章 十圣子"
+  },
+  {
+    "title": "456首席之争开启",
+    "url": "https://www.xbiquge.cc/book/24276/23463298.html",
+    "origetitle": "第四百五十六章 首席之争开启"
+  },
+  {
+    "title": "457一剑",
+    "url": "https://www.xbiquge.cc/book/24276/23476623.html",
+    "origetitle": "第四百五十七章 一剑"
+  },
+  {
+    "title": "458一拳",
+    "url": "https://www.xbiquge.cc/book/24276/23494018.html",
+    "origetitle": "第四百五十八章 一拳"
+  },
+  {
+    "title": "459第一胜",
+    "url": "https://www.xbiquge.cc/book/24276/23512843.html",
+    "origetitle": "第四百五十九章 第一胜"
+  },
+  {
+    "title": "460只剩三个",
+    "url": "https://www.xbiquge.cc/book/24276/23533094.html",
+    "origetitle": "第四百六十章 只剩三个"
+  },
+  {
+    "title": "461局面渐转",
+    "url": "https://www.xbiquge.cc/book/24276/23554979.html",
+    "origetitle": "第四百六十一章 局面渐转"
+  },
+  {
+    "title": "462反杀",
+    "url": "https://www.xbiquge.cc/book/24276/23571451.html",
+    "origetitle": "第四百六十二章 反杀"
+  },
+  {
+    "title": "463谁要完了？",
+    "url": "https://www.xbiquge.cc/book/24276/23582435.html",
+    "origetitle": "第四百六十三章 谁要完了？"
+  },
+  {
+    "title": "464拦路虎",
+    "url": "https://www.xbiquge.cc/book/24276/23602265.html",
+    "origetitle": "第四百六十四章 拦路虎"
+  },
+  {
+    "title": "465最后的袁洪",
+    "url": "https://www.xbiquge.cc/book/24276/23604613.html",
+    "origetitle": "第四百六十五章 最后的袁洪"
+  },
+  {
+    "title": null,
+    "url": "https://www.xbiquge.cc/book/24276/23618534.html",
+    "origetitle": "第四百六十六章"
+  },
+  {
+    "title": "467打够了吗？",
+    "url": "https://www.xbiquge.cc/book/24276/23632564.html",
+    "origetitle": "第四百六十七章 打够了吗？"
+  },
+  {
+    "title": "468银骨境！",
+    "url": "https://www.xbiquge.cc/book/24276/23645127.html",
+    "origetitle": "第四百六十八章 银骨境！"
+  },
+  {
+    "title": "469震撼四方",
+    "url": "https://www.xbiquge.cc/book/24276/23666102.html",
+    "origetitle": "第四百六十九章 震撼四方"
+  },
+  {
+    "title": "470惨烈",
+    "url": "https://www.xbiquge.cc/book/24276/23686451.html",
+    "origetitle": "第四百七十章 惨烈"
+  },
+  {
+    "title": "471饲剑术",
+    "url": "https://www.xbiquge.cc/book/24276/23707488.html",
+    "origetitle": "第四百七十一章 饲剑术"
+  },
+  {
+    "title": "472突破！",
+    "url": "https://www.xbiquge.cc/book/24276/23708298.html",
+    "origetitle": "第四百七十二章 突破！"
+  },
+  {
+    "title": "473五重天！",
+    "url": "https://www.xbiquge.cc/book/24276/23730152.html",
+    "origetitle": "第四百七十三章 五重天！"
+  },
+  {
+    "title": "474问鼎",
+    "url": "https://www.xbiquge.cc/book/24276/23757251.html",
+    "origetitle": "第四百七十四章 问鼎"
+  },
+  {
+    "title": "475完了",
+    "url": "https://www.xbiquge.cc/book/24276/23769593.html",
+    "origetitle": "第四百七十五章 完了"
+  },
+  {
+    "title": "476首席之位",
+    "url": "https://www.xbiquge.cc/book/24276/23788178.html",
+    "origetitle": "第四百七十六章 首席之位"
+  },
+  {
+    "title": "477七大首席",
+    "url": "https://www.xbiquge.cc/book/24276/23799006.html",
+    "origetitle": "第四百七十七章 七大首席"
+  },
+  {
+    "title": "478太玄圣灵术",
+    "url": "https://www.xbiquge.cc/book/24276/23807453.html",
+    "origetitle": "第四百七十八章 太玄圣灵术"
+  },
+  {
+    "title": "479玄老现身",
+    "url": "https://www.xbiquge.cc/book/24276/23809302.html",
+    "origetitle": "第四百七十九章 玄老现身"
+  },
+  {
+    "title": "480大宴",
+    "url": "https://www.xbiquge.cc/book/24276/23821608.html",
+    "origetitle": "第四百八十章 大宴"
+  },
+  {
+    "title": "481挫祝岳",
+    "url": "https://www.xbiquge.cc/book/24276/23835749.html",
+    "origetitle": "第四百八十一章 挫祝岳"
+  },
+  {
+    "title": "482圣宫武煌",
+    "url": "https://www.xbiquge.cc/book/24276/23846886.html",
+    "origetitle": "第四百八十二章 圣宫武煌"
+  },
+  {
+    "title": "483九神府",
+    "url": "https://www.xbiquge.cc/book/24276/23863084.html",
+    "origetitle": "第四百八十三章 九神府"
+  },
+  {
+    "title": "484闯山",
+    "url": "https://www.xbiquge.cc/book/24276/23959012.html",
+    "origetitle": "第四百八十四章 闯山"
+  },
+  {
+    "title": "485试炼山道",
+    "url": "https://www.xbiquge.cc/book/24276/24085355.html",
+    "origetitle": "第四百八十五章 试炼山道"
+  },
+  {
+    "title": "486心性",
+    "url": "https://www.xbiquge.cc/book/24276/24161992.html",
+    "origetitle": "第四百八十六章 心性"
+  },
+  {
+    "title": "487霸道神磨",
+    "url": "https://www.xbiquge.cc/book/24276/24168703.html",
+    "origetitle": "第四百八十七章 霸道神磨"
+  },
+  {
+    "title": "488金色光流",
+    "url": "https://www.xbiquge.cc/book/24276/24229564.html",
+    "origetitle": "第四百八十八章 金色光流"
+  },
+  {
+    "title": "489天阳",
+    "url": "https://www.xbiquge.cc/book/24276/24251328.html",
+    "origetitle": "第四百八十九章 天阳"
+  },
+  {
+    "title": "490过三关",
+    "url": "https://www.xbiquge.cc/book/24276/24260157.html",
+    "origetitle": "第四百九十章 过三关"
+  },
+  {
+    "title": "491玄钟响",
+    "url": "https://www.xbiquge.cc/book/24276/24262492.html",
+    "origetitle": "第四百九十一章 玄钟响"
+  },
+  {
+    "title": "492青玉老祖像",
+    "url": "https://www.xbiquge.cc/book/24276/24277493.html",
+    "origetitle": "第四百九十二章 青玉老祖像"
+  },
+  {
+    "title": "493地圣纹",
+    "url": "https://www.xbiquge.cc/book/24276/24278626.html",
+    "origetitle": "第四百九十三章 地圣纹"
+  },
+  {
+    "title": "494源池祭",
+    "url": "https://www.xbiquge.cc/book/24276/24307207.html",
+    "origetitle": "第四百九十四章 源池祭"
+  },
+  {
+    "title": "495寻印",
+    "url": "https://www.xbiquge.cc/book/24276/24333586.html",
+    "origetitle": "第四百九十五章 寻印"
+  },
+  {
+    "title": "496主脉",
+    "url": "https://www.xbiquge.cc/book/24276/24385599.html",
+    "origetitle": "第四百九十六章 主脉"
+  },
+  {
+    "title": "497峰会",
+    "url": "https://www.xbiquge.cc/book/24276/24417390.html",
+    "origetitle": "第四百九十七章 峰会"
+  },
+  {
+    "title": "498商谈",
+    "url": "https://www.xbiquge.cc/book/24276/24454990.html",
+    "origetitle": "第四百九十八章 商谈"
+  },
+  {
+    "title": "498条件",
+    "url": "https://www.xbiquge.cc/book/24276/24456318.html",
+    "origetitle": "第四百九十八章 条件"
+  },
+  {
+    "title": "500请援",
+    "url": "https://www.xbiquge.cc/book/24276/24476744.html",
+    "origetitle": "第五百章 请援"
+  },
+  {
+    "title": "501圣灵种子",
+    "url": "https://www.xbiquge.cc/book/24276/24512343.html",
+    "origetitle": "第五百零一章 圣灵种子"
+  },
+  {
+    "title": "502名单",
+    "url": "https://www.xbiquge.cc/book/24276/24538680.html",
+    "origetitle": "第五百零二章 名单"
+  },
+  {
+    "title": "503条件",
+    "url": "https://www.xbiquge.cc/book/24276/24578418.html",
+    "origetitle": "第五百零三章 条件"
+  },
+  {
+    "title": "504对策",
+    "url": "https://www.xbiquge.cc/book/24276/24590001.html",
+    "origetitle": "第五百零四章 对策"
+  },
+  {
+    "title": "505迷天结界",
+    "url": "https://www.xbiquge.cc/book/24276/24593200.html",
+    "origetitle": "第五百零五章 迷天结界"
+  },
+  {
+    "title": "506种子小成",
+    "url": "https://www.xbiquge.cc/book/24276/24608060.html",
+    "origetitle": "第五百零六章 种子小成"
+  },
+  {
+    "title": "507算计",
+    "url": "https://www.xbiquge.cc/book/24276/24632017.html",
+    "origetitle": "第五百零七章 算计"
+  },
+  {
+    "title": "508反应",
+    "url": "https://www.xbiquge.cc/book/24276/24639211.html",
+    "origetitle": "第五百零八章 反应"
+  },
+  {
+    "title": "509初闻玄源",
+    "url": "https://www.xbiquge.cc/book/24276/24690049.html",
+    "origetitle": "第五百零九章 初闻玄源"
+  },
+  {
+    "title": "510源池再开",
+    "url": "https://www.xbiquge.cc/book/24276/24718534.html",
+    "origetitle": "第五百一十章 源池再开"
+  },
+  {
+    "title": "511跑！",
+    "url": "https://www.xbiquge.cc/book/24276/24760368.html",
+    "origetitle": "第五百一十一章 跑！"
+  },
+  {
+    "title": "512准备",
+    "url": "https://www.xbiquge.cc/book/24276/24792660.html",
+    "origetitle": "第五百一十二章 准备"
+  },
+  {
+    "title": "513剑来围岛",
+    "url": "https://www.xbiquge.cc/book/24276/24838514.html",
+    "origetitle": "第五百一十三章 剑来围岛"
+  },
+  {
+    "title": "514宣战",
+    "url": "https://www.xbiquge.cc/book/24276/24868721.html",
+    "origetitle": "第五百一十四章 宣战"
+  },
+  {
+    "title": "515震怒的剑来峰",
+    "url": "https://www.xbiquge.cc/book/24276/24905982.html",
+    "origetitle": "第五百一十五章 震怒的剑来峰"
+  },
+  {
+    "title": "516剑来大军",
+    "url": "https://www.xbiquge.cc/book/24276/24908506.html",
+    "origetitle": "第五百一十六章 剑来大军"
+  },
+  {
+    "title": "517剑来围岛",
+    "url": "https://www.xbiquge.cc/book/24276/24922127.html",
+    "origetitle": "第五百一十七章 剑来围岛"
+  },
+  {
+    "title": "518大阵启",
+    "url": "https://www.xbiquge.cc/book/24276/24935463.html",
+    "origetitle": "第五百一十八章 大阵启"
+  },
+  {
+    "title": "519迷天显威",
+    "url": "https://www.xbiquge.cc/book/24276/24989923.html",
+    "origetitle": "第五百一十九章 迷天显威"
+  },
+  {
+    "title": "520出不来",
+    "url": "https://www.xbiquge.cc/book/24276/25046707.html",
+    "origetitle": "第五百二十章 出不来"
+  },
+  {
+    "title": "521将对将",
+    "url": "https://www.xbiquge.cc/book/24276/25049318.html",
+    "origetitle": "第五百二十一章 将对将"
+  },
+  {
+    "title": "522两峰之斗",
+    "url": "https://www.xbiquge.cc/book/24276/25081722.html",
+    "origetitle": "第五百二十二章 两峰之斗"
+  },
+  {
+    "title": "523天霜封禁术",
+    "url": "https://www.xbiquge.cc/book/24276/25097796.html",
+    "origetitle": "第五百二十三章 天霜封禁术"
+  },
+  {
+    "title": "524破源血术",
+    "url": "https://www.xbiquge.cc/book/24276/25148917.html",
+    "origetitle": "第五百二十四章 破源血术"
+  },
+  {
+    "title": "524神魂破禁术",
+    "url": "https://www.xbiquge.cc/book/24276/25166930.html",
+    "origetitle": "第五百二十四章 神魂破禁术"
+  },
+  {
+    "title": "525荡魔剑丸",
+    "url": "https://www.xbiquge.cc/book/24276/25217569.html",
+    "origetitle": "第五百二十五章 荡魔剑丸"
+  },
+  {
+    "title": "526你有剑丸，我有圣灵！",
+    "url": "https://www.xbiquge.cc/book/24276/25232566.html",
+    "origetitle": "第五百二十六章 你有剑丸，我有圣灵！"
+  },
+  {
+    "title": "527拍碎剑丸",
+    "url": "https://www.xbiquge.cc/book/24276/25253800.html",
+    "origetitle": "第五百二十七章 拍碎剑丸"
+  },
+  {
+    "title": "528分出胜负",
+    "url": "https://www.xbiquge.cc/book/24276/25271973.html",
+    "origetitle": "第五百二十八章 分出胜负"
+  },
+  {
+    "title": "529穷途末路的剑来峰",
+    "url": "https://www.xbiquge.cc/book/24276/25310998.html",
+    "origetitle": "第五百二十九章 穷途末路的剑来峰"
+  },
+  {
+    "title": "530万丈",
+    "url": "https://www.xbiquge.cc/book/24276/25312097.html",
+    "origetitle": "第五百三十章 万丈"
+  },
+  {
+    "title": "531七峰联手",
+    "url": "https://www.xbiquge.cc/book/24276/25326730.html",
+    "origetitle": "第五百三十一章 七峰联手"
+  },
+  {
+    "title": "532磨炼",
+    "url": "https://www.xbiquge.cc/book/24276/25347320.html",
+    "origetitle": "第五百三十二章 磨炼"
+  },
+  {
+    "title": "533水兽攻岛",
+    "url": "https://www.xbiquge.cc/book/24276/25361498.html",
+    "origetitle": "第五百三十三章 水兽攻岛"
+  },
+  {
+    "title": "534众圣战万丈水兽",
+    "url": "https://www.xbiquge.cc/book/24276/25389536.html",
+    "origetitle": "第五百三十四章 众圣战万丈水兽"
+  },
+  {
+    "title": "535龙涎真水",
+    "url": "https://www.xbiquge.cc/book/24276/25425390.html",
+    "origetitle": "第五百三十五章 龙涎真水"
+  },
+  {
+    "title": "536周元参战",
+    "url": "https://www.xbiquge.cc/book/24276/25485956.html",
+    "origetitle": "第五百三十六章 周元参战"
+  },
+  {
+    "title": "537破解真水",
+    "url": "https://www.xbiquge.cc/book/24276/25486972.html",
+    "origetitle": "第五百三十七章 破解真水"
+  },
+  {
+    "title": "538收真水",
+    "url": "https://www.xbiquge.cc/book/24276/25500765.html",
+    "origetitle": "第五百三十八章 收真水"
+  },
+  {
+    "title": "539灭万丈",
+    "url": "https://www.xbiquge.cc/book/24276/25508248.html",
+    "origetitle": "第五百三十九章 灭万丈"
+  },
+  {
+    "title": "540源髓分配",
+    "url": "https://www.xbiquge.cc/book/24276/25524334.html",
+    "origetitle": "第五百四十章 源髓分配"
+  },
+  {
+    "title": "541源髓光柱",
+    "url": "https://www.xbiquge.cc/book/24276/25536275.html",
+    "origetitle": "第五百四十一章 源髓光柱"
+  },
+  {
+    "title": "542九龙洗礼",
+    "url": "https://www.xbiquge.cc/book/24276/25548678.html",
+    "origetitle": "第五百四十二章 九龙洗礼"
+  },
+  {
+    "title": "543又一年的选山大典",
+    "url": "https://www.xbiquge.cc/book/24276/25563369.html",
+    "origetitle": "第五百四十三章 又一年的选山大典"
+  },
+  {
+    "title": "544牧小蛮",
+    "url": "https://www.xbiquge.cc/book/24276/25576221.html",
+    "origetitle": "第五百四十四章 牧小蛮"
+  },
+  {
+    "title": "545源气化星斗",
+    "url": "https://www.xbiquge.cc/book/24276/25585606.html",
+    "origetitle": "第五百四十五章 源气化星斗"
+  },
+  {
+    "title": "546招收新弟子",
+    "url": "https://www.xbiquge.cc/book/24276/25588094.html",
+    "origetitle": "第五百四十六章 招收新弟子"
+  },
+  {
+    "title": "547严苛的祖龙经",
+    "url": "https://www.xbiquge.cc/book/24276/25600227.html",
+    "origetitle": "第五百四十七章 严苛的祖龙经"
+  },
+  {
+    "title": "548洞天将开",
+    "url": "https://www.xbiquge.cc/book/24276/25619333.html",
+    "origetitle": "第五百四十八章 洞天将开"
+  },
+  {
+    "title": "549筑神异宝",
+    "url": "https://www.xbiquge.cc/book/24276/25638061.html",
+    "origetitle": "第五百四十九章 筑神异宝"
+  },
+  {
+    "title": "550任务",
+    "url": "https://www.xbiquge.cc/book/24276/25672625.html",
+    "origetitle": "第五百五十章 任务"
+  },
+  {
+    "title": "551出征",
+    "url": "https://www.xbiquge.cc/book/24276/25718446.html",
+    "origetitle": "第五百五十一章 出征"
+  },
+  {
+    "title": "552各方云集",
+    "url": "https://www.xbiquge.cc/book/24276/25746858.html",
+    "origetitle": "第五百五十二章 各方云集"
+  },
+  {
+    "title": "553秦陵",
+    "url": "https://www.xbiquge.cc/book/24276/25801926.html",
+    "origetitle": "第五百五十三章 秦陵"
+  },
+  {
+    "title": "554分配",
+    "url": "https://www.xbiquge.cc/book/24276/25834590.html",
+    "origetitle": "第五百五十四章 分配"
+  },
+  {
+    "title": "555队伍",
+    "url": "https://www.xbiquge.cc/book/24276/25877348.html",
+    "origetitle": "第五百五十五章 队伍"
+  },
+  {
+    "title": "556玄铜虫树",
+    "url": "https://www.xbiquge.cc/book/24276/25900758.html",
+    "origetitle": "第五百五十六章 玄铜虫树"
+  },
+  {
+    "title": "557采集",
+    "url": "https://www.xbiquge.cc/book/24276/25953699.html",
+    "origetitle": "第五百五十七章 采集"
+  },
+  {
+    "title": "558雷青海",
+    "url": "https://www.xbiquge.cc/book/24276/25958488.html",
+    "origetitle": "第五百五十八章 雷青海"
+  },
+  {
+    "title": "559一掌拍死",
+    "url": "https://www.xbiquge.cc/book/24276/26000046.html",
+    "origetitle": "第五百五十九章 一掌拍死"
+  },
+  {
+    "title": "560雷王印",
+    "url": "https://www.xbiquge.cc/book/24276/26030215.html",
+    "origetitle": "第五百六十章 雷王印"
+  },
+  {
+    "title": "561碾压",
+    "url": "https://www.xbiquge.cc/book/24276/26087662.html",
+    "origetitle": "第五百六十一章 碾压"
+  },
+  {
+    "title": "562六彩宝地",
+    "url": "https://www.xbiquge.cc/book/24276/26164840.html",
+    "origetitle": "第五百六十二章 六彩宝地"
+  },
+  {
+    "title": "563急援令",
+    "url": "https://www.xbiquge.cc/book/24276/26256064.html",
+    "origetitle": "第五百六十三章 急援令"
+  },
+  {
+    "title": "564围困",
+    "url": "https://www.xbiquge.cc/book/24276/26322765.html",
+    "origetitle": "第五百六十四章 围困"
+  },
+  {
+    "title": "565宁墨",
+    "url": "https://www.xbiquge.cc/book/24276/26345760.html",
+    "origetitle": "第五百六十五章 宁墨"
+  },
+  {
+    "title": "566血债血偿",
+    "url": "https://www.xbiquge.cc/book/24276/26360694.html",
+    "origetitle": "第五百六十六章 血债血偿"
+  },
+  {
+    "title": "567强势",
+    "url": "https://www.xbiquge.cc/book/24276/26374335.html",
+    "origetitle": "第五百六十七章 强势"
+  },
+  {
+    "title": "568帮手",
+    "url": "https://www.xbiquge.cc/book/24276/26399836.html",
+    "origetitle": "第五百六十八章 帮手"
+  },
+  {
+    "title": "569范妖",
+    "url": "https://www.xbiquge.cc/book/24276/26424797.html",
+    "origetitle": "第五百六十九章 范妖"
+  },
+  {
+    "title": "570遇百花",
+    "url": "https://www.xbiquge.cc/book/24276/26461491.html",
+    "origetitle": "第五百七十章 遇百花"
+  },
+  {
+    "title": "571三方汇聚",
+    "url": "https://www.xbiquge.cc/book/24276/26510553.html",
+    "origetitle": "第五百七十一章 三方汇聚"
+  },
+  {
+    "title": "572阴险",
+    "url": "https://www.xbiquge.cc/book/24276/26540040.html",
+    "origetitle": "第五百七十二章 阴险"
+  },
+  {
+    "title": "573试探",
+    "url": "https://www.xbiquge.cc/book/24276/26557311.html",
+    "origetitle": "第五百七十三章 试探"
+  },
+  {
+    "title": "574谈判",
+    "url": "https://www.xbiquge.cc/book/24276/26641506.html",
+    "origetitle": "第五百七十四章 谈判"
+  },
+  {
+    "title": "575六彩湖",
+    "url": "https://www.xbiquge.cc/book/24276/26655356.html",
+    "origetitle": "第五百七十五章 六彩湖"
+  },
+  {
+    "title": "576三头灵鬼蟒",
+    "url": "https://www.xbiquge.cc/book/24276/26681631.html",
+    "origetitle": "第五百七十六章 三头灵鬼蟒"
+  },
+  {
+    "title": "577迷天锁蟒",
+    "url": "https://www.xbiquge.cc/book/24276/26685578.html",
+    "origetitle": "第五百七十七章 迷天锁蟒"
+  },
+  {
+    "title": "578宝树",
+    "url": "https://www.xbiquge.cc/book/24276/26696317.html",
+    "origetitle": "第五百七十八章 宝树"
+  },
+  {
+    "title": "579范妖的狠辣",
+    "url": "https://www.xbiquge.cc/book/24276/26698291.html",
+    "origetitle": "第五百七十九章 范妖的狠辣"
+  },
+  {
+    "title": "580混乱",
+    "url": "https://www.xbiquge.cc/book/24276/26710792.html",
+    "origetitle": "第五百八十章 混乱"
+  },
+  {
+    "title": "581战范妖",
+    "url": "https://www.xbiquge.cc/book/24276/26716251.html",
+    "origetitle": "第五百八十一章 战范妖"
+  },
+  {
+    "title": "582恶战",
+    "url": "https://www.xbiquge.cc/book/24276/26780624.html",
+    "origetitle": "第五百八十二章 恶战"
+  },
+  {
+    "title": "583圣灵斗血妖",
+    "url": "https://www.xbiquge.cc/book/24276/26793872.html",
+    "origetitle": "第五百八十三章 圣灵斗血妖"
+  },
+  {
+    "title": "584不择手段",
+    "url": "https://www.xbiquge.cc/book/24276/26817284.html",
+    "origetitle": "第五百八十四章 不择手段"
+  },
+  {
+    "title": "585地圣纹初显威",
+    "url": "https://www.xbiquge.cc/book/24276/26826185.html",
+    "origetitle": "第五百八十五章 地圣纹初显威"
+  },
+  {
+    "title": "586尸骨无存",
+    "url": "https://www.xbiquge.cc/book/24276/26830521.html",
+    "origetitle": "第五百八十六章 尸骨无存"
+  },
+  {
+    "title": "587震撼全场",
+    "url": "https://www.xbiquge.cc/book/24276/26837643.html",
+    "origetitle": "第五百八十七章 震撼全场"
+  },
+  {
+    "title": "588收获",
+    "url": "https://www.xbiquge.cc/book/24276/26843087.html",
+    "origetitle": "第五百八十八章 收获"
+  },
+  {
+    "title": "589湖底",
+    "url": "https://www.xbiquge.cc/book/24276/26857118.html",
+    "origetitle": "第五百八十九章 湖底"
+  },
+  {
+    "title": "590暗回",
+    "url": "https://www.xbiquge.cc/book/24276/26869194.html",
+    "origetitle": "第五百九十章 暗回"
+  },
+  {
+    "title": "591绿萝的本事",
+    "url": "https://www.xbiquge.cc/book/24276/26870222.html",
+    "origetitle": "第五百九十一章 绿萝的本事"
+  },
+  {
+    "title": "592湖底空间",
+    "url": "https://www.xbiquge.cc/book/24276/26891116.html",
+    "origetitle": "第五百九十二章 湖底空间"
+  },
+  {
+    "title": "593湖底秘宝",
+    "url": "https://www.xbiquge.cc/book/24276/26897257.html",
+    "origetitle": "第五百九十三章 湖底秘宝"
+  },
+  {
+    "title": "594赶往深处",
+    "url": "https://www.xbiquge.cc/book/24276/27039170.html",
+    "origetitle": "第五百九十四章 赶往深处"
+  },
+  {
+    "title": "595金血之境",
+    "url": "https://www.xbiquge.cc/book/24276/27049691.html",
+    "origetitle": "第五百九十五章 金血之境"
+  },
+  {
+    "title": "596各方关注",
+    "url": "https://www.xbiquge.cc/book/24276/27061559.html",
+    "origetitle": "第五百九十六章 各方关注"
+  },
+  {
+    "title": "597霍天，赵鲸",
+    "url": "https://www.xbiquge.cc/book/24276/27063238.html",
+    "origetitle": "第五百九十七章 霍天，赵鲸"
+  },
+  {
+    "title": "598现身",
+    "url": "https://www.xbiquge.cc/book/24276/27078291.html",
+    "origetitle": "第五百九十八章 现身"
+  },
+  {
+    "title": "599三成之力",
+    "url": "https://www.xbiquge.cc/book/24276/27089764.html",
+    "origetitle": "第五百九十九章 三成之力"
+  },
+  {
+    "title": "600金刚修罗",
+    "url": "https://www.xbiquge.cc/book/24276/27092242.html",
+    "origetitle": "第六百章 金刚修罗"
+  },
+  {
+    "title": "601圣子出",
+    "url": "https://www.xbiquge.cc/book/24276/27108252.html",
+    "origetitle": "第六百零一章 圣子出"
+  },
+  {
+    "title": "602金蟾子",
+    "url": "https://www.xbiquge.cc/book/24276/27118183.html",
+    "origetitle": "第六百零二章 金蟾子"
+  },
+  {
+    "title": "603要让他死？",
+    "url": "https://www.xbiquge.cc/book/24276/27120042.html",
+    "origetitle": "第六百零三章 要让他死？"
+  },
+  {
+    "title": "604夭夭出手",
+    "url": "https://www.xbiquge.cc/book/24276/27136352.html",
+    "origetitle": "第六百零四章 夭夭出手"
+  },
+  {
+    "title": "605魂炎",
+    "url": "https://www.xbiquge.cc/book/24276/27158989.html",
+    "origetitle": "第六百零五章 魂炎"
+  },
+  {
+    "title": "606化解",
+    "url": "https://www.xbiquge.cc/book/24276/27168638.html",
+    "origetitle": "第六百零六章 化解"
+  },
+  {
+    "title": "607大玄山脉的机缘",
+    "url": "https://www.xbiquge.cc/book/24276/27170745.html",
+    "origetitle": "第六百零七章 大玄山脉的机缘"
+  },
+  {
+    "title": "608计划",
+    "url": "https://www.xbiquge.cc/book/24276/27183590.html",
+    "origetitle": "第六百零八章 计划"
+  },
+  {
+    "title": "609玄碑令",
+    "url": "https://www.xbiquge.cc/book/24276/27195243.html",
+    "origetitle": "第六百零九章 玄碑令"
+  },
+  {
+    "title": "610七彩",
+    "url": "https://www.xbiquge.cc/book/24276/27222839.html",
+    "origetitle": "第六百一十章 七彩"
+  },
+  {
+    "title": "611守卫宝地",
+    "url": "https://www.xbiquge.cc/book/24276/27237600.html",
+    "origetitle": "第六百一十一章 守卫宝地"
+  },
+  {
+    "title": "612开战",
+    "url": "https://www.xbiquge.cc/book/24276/27239486.html",
+    "origetitle": "第六百一十二章 开战"
+  },
+  {
+    "title": "613姜太神的手段",
+    "url": "https://www.xbiquge.cc/book/24276/27253876.html",
+    "origetitle": "第六百一十三章 姜太神的手段"
+  },
+  {
+    "title": "614圣宫突入",
+    "url": "https://www.xbiquge.cc/book/24276/27271808.html",
+    "origetitle": "第六百一十四章 圣宫突入"
+  },
+  {
+    "title": "615池雷，柴嬴",
+    "url": "https://www.xbiquge.cc/book/24276/27285244.html",
+    "origetitle": "第六百一十五章 池雷，柴嬴"
+  },
+  {
+    "title": "616首战圣子",
+    "url": "https://www.xbiquge.cc/book/24276/27299314.html",
+    "origetitle": "第六百一十六章 首战圣子"
+  },
+  {
+    "title": "617膨胀",
+    "url": "https://www.xbiquge.cc/book/24276/27317320.html",
+    "origetitle": "第六百一十七章 膨胀"
+  },
+  {
+    "title": "618极限",
+    "url": "https://www.xbiquge.cc/book/24276/27334532.html",
+    "origetitle": "第六百一十八章 极限"
+  },
+  {
+    "title": "619苍蛟灭金丹",
+    "url": "https://www.xbiquge.cc/book/24276/27354477.html",
+    "origetitle": "第六百一十九章 苍蛟灭金丹"
+  },
+  {
+    "title": "620苍玄宗新圣子",
+    "url": "https://www.xbiquge.cc/book/24276/27364677.html",
+    "origetitle": "第六百二十章 苍玄宗新圣子"
+  },
+  {
+    "title": "621圣宫退",
+    "url": "https://www.xbiquge.cc/book/24276/27371272.html",
+    "origetitle": "第六百二十一章 圣宫退"
+  },
+  {
+    "title": "622独占七彩",
+    "url": "https://www.xbiquge.cc/book/24276/27378144.html",
+    "origetitle": "第六百二十二章 独占七彩"
+  },
+  {
+    "title": "623一口吞",
+    "url": "https://www.xbiquge.cc/book/24276/27392328.html",
+    "origetitle": "第六百二十三章 一口吞"
+  },
+  {
+    "title": "624火莲",
+    "url": "https://www.xbiquge.cc/book/24276/27394746.html",
+    "origetitle": "第六百二十四章 火莲"
+  },
+  {
+    "title": "625债务",
+    "url": "https://www.xbiquge.cc/book/24276/27417644.html",
+    "origetitle": "第六百二十五章 债务"
+  },
+  {
+    "title": "626更惨",
+    "url": "https://www.xbiquge.cc/book/24276/27441224.html",
+    "origetitle": "第六百二十六章 更惨"
+  },
+  {
+    "title": "626陷阱",
+    "url": "https://www.xbiquge.cc/book/24276/27462654.html",
+    "origetitle": "第六百二十六章 陷阱"
+  },
+  {
+    "title": "627圣宫报复",
+    "url": "https://www.xbiquge.cc/book/24276/27500506.html",
+    "origetitle": "第六百二十七章 圣宫报复"
+  },
+  {
+    "title": "628好友",
+    "url": "https://www.xbiquge.cc/book/24276/27530077.html",
+    "origetitle": "第六百二十八章 好友"
+  },
+  {
+    "title": "629以一敌二",
+    "url": "https://www.xbiquge.cc/book/24276/27572131.html",
+    "origetitle": "第六百二十九章 以一敌二"
+  },
+  {
+    "title": "630凶威",
+    "url": "https://www.xbiquge.cc/book/24276/27593601.html",
+    "origetitle": "第六百三十章 凶威"
+  },
+  {
+    "title": "631九幽雷诀",
+    "url": "https://www.xbiquge.cc/book/24276/27596299.html",
+    "origetitle": "第六百三十一章 九幽雷诀"
+  },
+  {
+    "title": "632一拳轰杀",
+    "url": "https://www.xbiquge.cc/book/24276/27634589.html",
+    "origetitle": "第六百三十二章 一拳轰杀"
+  },
+  {
+    "title": "633狗胆包天",
+    "url": "https://www.xbiquge.cc/book/24276/27667278.html",
+    "origetitle": "第六百三十三章 狗胆包天"
+  },
+  {
+    "title": "634机缘现世",
+    "url": "https://www.xbiquge.cc/book/24276/27684187.html",
+    "origetitle": "第六百三十四章 机缘现世"
+  },
+  {
+    "title": "635神秘玉璧",
+    "url": "https://www.xbiquge.cc/book/24276/27686819.html",
+    "origetitle": "第六百三十五章 神秘玉璧"
+  },
+  {
+    "title": "636第三道圣纹",
+    "url": "https://www.xbiquge.cc/book/24276/27729240.html",
+    "origetitle": "第六百三十六章 第三道圣纹"
+  },
+  {
+    "title": "637大战起",
+    "url": "https://www.xbiquge.cc/book/24276/27773141.html",
+    "origetitle": "第六百三十七章 大战起"
+  },
+  {
+    "title": "638斗法",
+    "url": "https://www.xbiquge.cc/book/24276/27812558.html",
+    "origetitle": "第六百三十八章 斗法"
+  },
+  {
+    "title": "639过时",
+    "url": "https://www.xbiquge.cc/book/24276/27823877.html",
+    "origetitle": "第六百三十九章 过时"
+  },
+  {
+    "title": "640楚青的战斗形态",
+    "url": "https://www.xbiquge.cc/book/24276/27835729.html",
+    "origetitle": "第六百四十章 楚青的战斗形态"
+  },
+  {
+    "title": "641两女",
+    "url": "https://www.xbiquge.cc/book/24276/27837317.html",
+    "origetitle": "第六百四十一章 两女"
+  },
+  {
+    "title": "642第三环",
+    "url": "https://www.xbiquge.cc/book/24276/27862859.html",
+    "origetitle": "第六百四十二章 第三环"
+  },
+  {
+    "title": "643恶战",
+    "url": "https://www.xbiquge.cc/book/24276/27874317.html",
+    "origetitle": "第六百四十三章 恶战"
+  },
+  {
+    "title": "644劣势",
+    "url": "https://www.xbiquge.cc/book/24276/27891298.html",
+    "origetitle": "第六百四十四章 劣势"
+  },
+  {
+    "title": "645扭转",
+    "url": "https://www.xbiquge.cc/book/24276/27905539.html",
+    "origetitle": "第六百四十五章 扭转"
+  },
+  {
+    "title": "646大妖蟾术",
+    "url": "https://www.xbiquge.cc/book/24276/27939896.html",
+    "origetitle": "第六百四十六章 大妖蟾术"
+  },
+  {
+    "title": "647跌宕起伏",
+    "url": "https://www.xbiquge.cc/book/24276/27966879.html",
+    "origetitle": "第六百四十七章 跌宕起伏"
+  },
+  {
+    "title": "648银影再现",
+    "url": "https://www.xbiquge.cc/book/24276/28015440.html",
+    "origetitle": "第六百四十八章 银影再现"
+  },
+  {
+    "title": "649斩杀",
+    "url": "https://www.xbiquge.cc/book/24276/28044810.html",
+    "origetitle": "第六百四十九章 斩杀"
+  },
+  {
+    "title": "650扭转局势",
+    "url": "https://www.xbiquge.cc/book/24276/28072197.html",
+    "origetitle": "第六百五十章 扭转局势"
+  },
+  {
+    "title": "651夭夭之威",
+    "url": "https://www.xbiquge.cc/book/24276/28116737.html",
+    "origetitle": "第六百五十一章 夭夭之威"
+  },
+  {
+    "title": "652收获",
+    "url": "https://www.xbiquge.cc/book/24276/28150410.html",
+    "origetitle": "第六百五十二章 收获"
+  },
+  {
+    "title": "653天诛",
+    "url": "https://www.xbiquge.cc/book/24276/28184563.html",
+    "origetitle": "第六百五十三章 天诛"
+  },
+  {
+    "title": "654霸道",
+    "url": "https://www.xbiquge.cc/book/24276/28220713.html",
+    "origetitle": "第六百五十四章 霸道"
+  },
+  {
+    "title": "655圆满",
+    "url": "https://www.xbiquge.cc/book/24276/28226527.html",
+    "origetitle": "第六百五十五章 圆满"
+  },
+  {
+    "title": "656落幕",
+    "url": "https://www.xbiquge.cc/book/24276/28253712.html",
+    "origetitle": "第六百五十六章 落幕"
+  },
+  {
+    "title": "657战果震人心",
+    "url": "https://www.xbiquge.cc/book/24276/28268699.html",
+    "origetitle": "第六百五十七章 战果震人心"
+  },
+  {
+    "title": "658愤怒的秦陵",
+    "url": "https://www.xbiquge.cc/book/24276/28287195.html",
+    "origetitle": "第六百五十八章 愤怒的秦陵"
+  },
+  {
+    "title": "659伪法域",
+    "url": "https://www.xbiquge.cc/book/24276/28301725.html",
+    "origetitle": "第六百五十九章 伪法域"
+  },
+  {
+    "title": "660惩处",
+    "url": "https://www.xbiquge.cc/book/24276/28313705.html",
+    "origetitle": "第六百六十章 惩处"
+  },
+  {
+    "title": "661回宗",
+    "url": "https://www.xbiquge.cc/book/24276/28332834.html",
+    "origetitle": "第六百六十一章 回宗"
+  },
+  {
+    "title": "662第二圣子",
+    "url": "https://www.xbiquge.cc/book/24276/28345073.html",
+    "origetitle": "第六百六十二章 第二圣子"
+  },
+  {
+    "title": "663大周",
+    "url": "https://www.xbiquge.cc/book/24276/28356801.html",
+    "origetitle": "第六百六十三章 大周"
+  },
+  {
+    "title": "664第一易主",
+    "url": "https://www.xbiquge.cc/book/24276/28359928.html",
+    "origetitle": "第六百六十四章 第一易主"
+  },
+  {
+    "title": "665实力暴涨",
+    "url": "https://www.xbiquge.cc/book/24276/28374586.html",
+    "origetitle": "第六百六十五章 实力暴涨"
+  },
+  {
+    "title": "666夺圣战！",
+    "url": "https://www.xbiquge.cc/book/24276/28386928.html",
+    "origetitle": "第六百六十六章 夺圣战！"
+  },
+  {
+    "title": "667最高的荣耀",
+    "url": "https://www.xbiquge.cc/book/24276/28402068.html",
+    "origetitle": "第六百六十七章 最高的荣耀"
+  },
+  {
+    "title": "668首选",
+    "url": "https://www.xbiquge.cc/book/24276/28417630.html",
+    "origetitle": "第六百六十八章 首选"
+  },
+  {
+    "title": "669势如破竹",
+    "url": "https://www.xbiquge.cc/book/24276/28428865.html",
+    "origetitle": "第六百六十九章 势如破竹"
+  },
+  {
+    "title": "670影仙与剑丸",
+    "url": "https://www.xbiquge.cc/book/24276/28440522.html",
+    "origetitle": "第六百七十章 影仙与剑丸"
+  },
+  {
+    "title": "671贺圣子首",
+    "url": "https://www.xbiquge.cc/book/24276/28452387.html",
+    "origetitle": "第六百七十一章 贺圣子首"
+  },
+  {
+    "title": "672约定",
+    "url": "https://www.xbiquge.cc/book/24276/28463705.html",
+    "origetitle": "第六百七十二章 约定"
+  },
+  {
+    "title": "673三坛桃夭酿",
+    "url": "https://www.xbiquge.cc/book/24276/28476066.html",
+    "origetitle": "第六百七十三章 三坛桃夭酿"
+  },
+  {
+    "title": "674夭夭的礼物",
+    "url": "https://www.xbiquge.cc/book/24276/28486814.html",
+    "origetitle": "第六百七十四章 夭夭的礼物"
+  },
+  {
+    "title": "675埋酒",
+    "url": "https://www.xbiquge.cc/book/24276/28497753.html",
+    "origetitle": "第六百七十五章 埋酒"
+  },
+  {
+    "title": "676玄圣体成",
+    "url": "https://www.xbiquge.cc/book/24276/28510533.html",
+    "origetitle": "第六百七十六章 玄圣体成"
+  },
+  {
+    "title": "677归家之路",
+    "url": "https://www.xbiquge.cc/book/24276/28529437.html",
+    "origetitle": "第六百七十七章 归家之路"
+  },
+  {
+    "title": "678友聚",
+    "url": "https://www.xbiquge.cc/book/24276/28541277.html",
+    "origetitle": "第六百七十八章 友聚"
+  },
+  {
+    "title": "679再见武煌",
+    "url": "https://www.xbiquge.cc/book/24276/28582303.html",
+    "origetitle": "第六百七十九章 再见武煌"
+  },
+  {
+    "title": "680宿敌之战",
+    "url": "https://www.xbiquge.cc/book/24276/28597373.html",
+    "origetitle": "第六百八十章 宿敌之战"
+  },
+  {
+    "title": "681用命吗？",
+    "url": "https://www.xbiquge.cc/book/24276/28613548.html",
+    "origetitle": "第六百八十一章 用命吗？"
+  },
+  {
+    "title": "682血修罗之魂",
+    "url": "https://www.xbiquge.cc/book/24276/28646441.html",
+    "origetitle": "第六百八十二章 血修罗之魂"
+  },
+  {
+    "title": "683比底牌",
+    "url": "https://www.xbiquge.cc/book/24276/28659425.html",
+    "origetitle": "第六百八十三章 比底牌"
+  },
+  {
+    "title": "684修罗圣龙变vs怨龙变",
+    "url": "https://www.xbiquge.cc/book/24276/28673815.html",
+    "origetitle": "第六百八十四章 修罗圣龙变vs怨龙变"
+  },
+  {
+    "title": "685肉身为饵",
+    "url": "https://www.xbiquge.cc/book/24276/28685724.html",
+    "origetitle": "第六百八十五章 肉身为饵"
+  },
+  {
+    "title": "686抹杀",
+    "url": "https://www.xbiquge.cc/book/24276/28707799.html",
+    "origetitle": "第六百八十六章 抹杀"
+  },
+  {
+    "title": "687归去",
+    "url": "https://www.xbiquge.cc/book/24276/28721068.html",
+    "origetitle": "第六百八十七章 归去"
+  },
+  {
+    "title": "688大武伐周",
+    "url": "https://www.xbiquge.cc/book/24276/28730749.html",
+    "origetitle": "第六百八十八章 大武伐周"
+  },
+  {
+    "title": "689断龙城",
+    "url": "https://www.xbiquge.cc/book/24276/28733054.html",
+    "origetitle": "第六百八十九章 断龙城"
+  },
+  {
+    "title": "690武王！",
+    "url": "https://www.xbiquge.cc/book/24276/28743708.html",
+    "origetitle": "第六百九十章 武王！"
+  },
+  {
+    "title": "691神府光环",
+    "url": "https://www.xbiquge.cc/book/24276/28754291.html",
+    "origetitle": "第六百九十一章 神府光环"
+  },
+  {
+    "title": "692谁还不是呢？",
+    "url": "https://www.xbiquge.cc/book/24276/28767274.html",
+    "origetitle": "第六百九十二章 谁还不是呢？"
+  },
+  {
+    "title": "693混沌光环",
+    "url": "https://www.xbiquge.cc/book/24276/28789993.html",
+    "origetitle": "第六百九十三章 混沌光环"
+  },
+  {
+    "title": "694斗武王",
+    "url": "https://www.xbiquge.cc/book/24276/28816745.html",
+    "origetitle": "第六百九十四章 斗武王"
+  },
+  {
+    "title": "695神府境中期",
+    "url": "https://www.xbiquge.cc/book/24276/28858573.html",
+    "origetitle": "第六百九十五章 神府境中期"
+  },
+  {
+    "title": "696斩武王",
+    "url": "https://www.xbiquge.cc/book/24276/28899618.html",
+    "origetitle": "第六百九十六章 斩武王"
+  },
+  {
+    "title": "697大周反扑",
+    "url": "https://www.xbiquge.cc/book/24276/28917744.html",
+    "origetitle": "第六百九十七章 大周反扑"
+  },
+  {
+    "title": "698震四方",
+    "url": "https://www.xbiquge.cc/book/24276/28951727.html",
+    "origetitle": "第六百九十八章 震四方"
+  },
+  {
+    "title": "699一袭红衣",
+    "url": "https://www.xbiquge.cc/book/24276/28976520.html",
+    "origetitle": "第六百九十九章 一袭红衣"
+  },
+  {
+    "title": "700武瑶",
+    "url": "https://www.xbiquge.cc/book/24276/28977111.html",
+    "origetitle": "第七百章 武瑶"
+  },
+  {
+    "title": "701龙凰相见",
+    "url": "https://www.xbiquge.cc/book/24276/28989554.html",
+    "origetitle": "第七百零一章 龙凰相见"
+  },
+  {
+    "title": "702九神府",
+    "url": "https://www.xbiquge.cc/book/24276/29004955.html",
+    "origetitle": "第七百零二章 九神府"
+  },
+  {
+    "title": "703夭夭与武瑶",
+    "url": "https://www.xbiquge.cc/book/24276/29015411.html",
+    "origetitle": "第七百零三章 夭夭与武瑶"
+  },
+  {
+    "title": "704赵云霄",
+    "url": "https://www.xbiquge.cc/book/24276/29026123.html",
+    "origetitle": "第七百零四章 赵云霄"
+  },
+  {
+    "title": "705圣元之谋",
+    "url": "https://www.xbiquge.cc/book/24276/29035094.html",
+    "origetitle": "第七百零五章 圣元之谋"
+  },
+  {
+    "title": "706隐于雷击之地",
+    "url": "https://www.xbiquge.cc/book/24276/29048824.html",
+    "origetitle": "第七百零六章 隐于雷击之地"
+  },
+  {
+    "title": "707神府宝药",
+    "url": "https://www.xbiquge.cc/book/24276/29060373.html",
+    "origetitle": "第七百零七章 神府宝药"
+  },
+  {
+    "title": "708外来者",
+    "url": "https://www.xbiquge.cc/book/24276/29073342.html",
+    "origetitle": "第七百零八章 外来者"
+  },
+  {
+    "title": "709索赔",
+    "url": "https://www.xbiquge.cc/book/24276/29088374.html",
+    "origetitle": "第七百零九章 索赔"
+  },
+  {
+    "title": "710故地",
+    "url": "https://www.xbiquge.cc/book/24276/29099195.html",
+    "origetitle": "第七百一十章 故地"
+  },
+  {
+    "title": "711查探黑渊",
+    "url": "https://www.xbiquge.cc/book/24276/29127669.html",
+    "origetitle": "第七百一十一章 查探黑渊"
+  },
+  {
+    "title": "712两尺法域",
+    "url": "https://www.xbiquge.cc/book/24276/29148110.html",
+    "origetitle": "第七百一十二章 两尺法域"
+  },
+  {
+    "title": "713圣印之前",
+    "url": "https://www.xbiquge.cc/book/24276/29157766.html",
+    "origetitle": "第七百一十三章 圣印之前"
+  },
+  {
+    "title": "714动荡",
+    "url": "https://www.xbiquge.cc/book/24276/29188031.html",
+    "origetitle": "第七百一十四章 动荡"
+  },
+  {
+    "title": "715云集",
+    "url": "https://www.xbiquge.cc/book/24276/29200477.html",
+    "origetitle": "第七百一十五章 云集"
+  },
+  {
+    "title": "716涟漪",
+    "url": "https://www.xbiquge.cc/book/24276/29213653.html",
+    "origetitle": "第七百一十六章 涟漪"
+  },
+  {
+    "title": "717有鬼",
+    "url": "https://www.xbiquge.cc/book/24276/29225400.html",
+    "origetitle": "第七百一十七章 有鬼"
+  },
+  {
+    "title": "718姜雷钧",
+    "url": "https://www.xbiquge.cc/book/24276/29235318.html",
+    "origetitle": "第七百一十八章 姜雷钧"
+  },
+  {
+    "title": "719圣者之火",
+    "url": "https://www.xbiquge.cc/book/24276/29246613.html",
+    "origetitle": "第七百一十九章 圣者之火"
+  },
+  {
+    "title": "720燃烧源婴",
+    "url": "https://www.xbiquge.cc/book/24276/29258317.html",
+    "origetitle": "第七百二十章 燃烧源婴"
+  },
+  {
+    "title": "721圣元的选择",
+    "url": "https://www.xbiquge.cc/book/24276/29268472.html",
+    "origetitle": "第七百二十一章 圣元的选择"
+  },
+  {
+    "title": "722惊天之战",
+    "url": "https://www.xbiquge.cc/book/24276/29276927.html",
+    "origetitle": "第七百二十二章 惊天之战"
+  },
+  {
+    "title": "723天圣殿殿主",
+    "url": "https://www.xbiquge.cc/book/24276/29277980.html",
+    "origetitle": "第七百二十三章 天圣殿殿主"
+  },
+  {
+    "title": "724封印破碎",
+    "url": "https://www.xbiquge.cc/book/24276/29354930.html",
+    "origetitle": "第七百二十四章 封印破碎"
+  },
+  {
+    "title": "725夭夭的力量",
+    "url": "https://www.xbiquge.cc/book/24276/29416658.html",
+    "origetitle": "第七百二十五章 夭夭的力量"
+  },
+  {
+    "title": "726恐怖的源纹造诣",
+    "url": "https://www.xbiquge.cc/book/24276/29438166.html",
+    "origetitle": "第七百二十六章 恐怖的源纹造诣"
+  },
+  {
+    "title": "727诛灵图",
+    "url": "https://www.xbiquge.cc/book/24276/29447094.html",
+    "origetitle": "第七百二十七章 诛灵图"
+  },
+  {
+    "title": "728圣者之心",
+    "url": "https://www.xbiquge.cc/book/24276/29455242.html",
+    "origetitle": "第七百二十八章 圣者之心"
+  },
+  {
+    "title": "729第四道圣纹",
+    "url": "https://www.xbiquge.cc/book/24276/29468580.html",
+    "origetitle": "第七百二十九章 第四道圣纹"
+  },
+  {
+    "title": "730再见老祖",
+    "url": "https://www.xbiquge.cc/book/24276/29481139.html",
+    "origetitle": "第七百三十章 再见老祖"
+  },
+  {
+    "title": "731变故",
+    "url": "https://www.xbiquge.cc/book/24276/29488855.html",
+    "origetitle": "第七百三十一章 变故"
+  },
+  {
+    "title": "732打落",
+    "url": "https://www.xbiquge.cc/book/24276/29497554.html",
+    "origetitle": "第七百三十二章 打落"
+  },
+  {
+    "title": "733苍玄斗法",
+    "url": "https://www.xbiquge.cc/book/24276/29504610.html",
+    "origetitle": "第七百三十三章 苍玄斗法"
+  },
+  {
+    "title": "734接引",
+    "url": "https://www.xbiquge.cc/book/24276/29512777.html",
+    "origetitle": "第七百三十四章 接引"
+  },
+  {
+    "title": "735毁印",
+    "url": "https://www.xbiquge.cc/book/24276/29524436.html",
+    "origetitle": "第七百三十五章 毁印"
+  },
+  {
+    "title": "736自爆",
+    "url": "https://www.xbiquge.cc/book/24276/29540275.html",
+    "origetitle": "第七百三十六章 自爆"
+  },
+  {
+    "title": "737撞碎金莲",
+    "url": "https://www.xbiquge.cc/book/24276/29553927.html",
+    "origetitle": "第七百三十七章 撞碎金莲"
+  },
+  {
+    "title": "738圣元遁逃",
+    "url": "https://www.xbiquge.cc/book/24276/29568367.html",
+    "origetitle": "第七百三十八章 圣元遁逃"
+  },
+  {
+    "title": "739夭夭冰封",
+    "url": "https://www.xbiquge.cc/book/24276/29581120.html",
+    "origetitle": "第七百三十九章 夭夭冰封"
+  },
+  {
+    "title": "740神府境中期",
+    "url": "https://www.xbiquge.cc/book/24276/29588893.html",
+    "origetitle": "第七百四十章 神府境中期"
+  },
+  {
+    "title": "741祖龙之物",
+    "url": "https://www.xbiquge.cc/book/24276/29604038.html",
+    "origetitle": "第七百四十一章 祖龙之物"
+  },
+  {
+    "title": "742分离",
+    "url": "https://www.xbiquge.cc/book/24276/29611309.html",
+    "origetitle": "第七百四十二章 分离"
+  },
+  {
+    "title": "743传送",
+    "url": "https://www.xbiquge.cc/book/24276/29619616.html",
+    "origetitle": "第七百四十三章 传送"
+  },
+  {
+    "title": "744伊家姐妹",
+    "url": "https://www.xbiquge.cc/book/24276/29628374.html",
+    "origetitle": "第七百四十四章 伊家姐妹"
+  },
+  {
+    "title": "745邱纪",
+    "url": "https://www.xbiquge.cc/book/24276/29641022.html",
+    "origetitle": "第七百四十五章 邱纪"
+  },
+  {
+    "title": "746护卫",
+    "url": "https://www.xbiquge.cc/book/24276/29653941.html",
+    "origetitle": "第七百四十六章 护卫"
+  },
+  {
+    "title": "747索要",
+    "url": "https://www.xbiquge.cc/book/24276/29671245.html",
+    "origetitle": "第七百四十七章 索要"
+  },
+  {
+    "title": "748赵月",
+    "url": "https://www.xbiquge.cc/book/24276/29693668.html",
+    "origetitle": "第七百四十八章 赵月"
+  },
+  {
+    "title": "749夜袭",
+    "url": "https://www.xbiquge.cc/book/24276/29708441.html",
+    "origetitle": "第七百四十九章 夜袭"
+  },
+  {
+    "title": "750风魔盗",
+    "url": "https://www.xbiquge.cc/book/24276/29717340.html",
+    "origetitle": "第七百五十章 风魔盗"
+  },
+  {
+    "title": "751周元出手",
+    "url": "https://www.xbiquge.cc/book/24276/29756821.html",
+    "origetitle": "第七百五十一章 周元出手"
+  },
+  {
+    "title": "752一脚之力",
+    "url": "https://www.xbiquge.cc/book/24276/29784278.html",
+    "origetitle": "第七百五十二章 一脚之力"
+  },
+  {
+    "title": "753化解",
+    "url": "https://www.xbiquge.cc/book/24276/29818807.html",
+    "origetitle": "第七百五十三章 化解"
+  },
+  {
+    "title": "754郗菁",
+    "url": "https://www.xbiquge.cc/book/24276/29830161.html",
+    "origetitle": "第七百五十四章 郗菁"
+  },
+  {
+    "title": "755神府榜",
+    "url": "https://www.xbiquge.cc/book/24276/29844054.html",
+    "origetitle": "第七百五十五章 神府榜"
+  },
+  {
+    "title": "756抵达玄州",
+    "url": "https://www.xbiquge.cc/book/24276/29856300.html",
+    "origetitle": "第七百五十六章 抵达玄州"
+  },
+  {
+    "title": "757邱家",
+    "url": "https://www.xbiquge.cc/book/24276/29866934.html",
+    "origetitle": "第七百五十七章 邱家"
+  },
+  {
+    "title": "758州主之争",
+    "url": "https://www.xbiquge.cc/book/24276/29875658.html",
+    "origetitle": "第七百五十八章 州主之争"
+  },
+  {
+    "title": "759外援",
+    "url": "https://www.xbiquge.cc/book/24276/29886232.html",
+    "origetitle": "第七百五十九章 外援"
+  },
+  {
+    "title": "760冤大头",
+    "url": "https://www.xbiquge.cc/book/24276/29897799.html",
+    "origetitle": "第七百六十章 冤大头"
+  },
+  {
+    "title": "761修炼剑丸",
+    "url": "https://www.xbiquge.cc/book/24276/29940359.html",
+    "origetitle": "第七百六十一章 修炼剑丸"
+  },
+  {
+    "title": "762天蛟气",
+    "url": "https://www.xbiquge.cc/book/24276/29966403.html",
+    "origetitle": "第七百六十二章 天蛟气"
+  },
+  {
+    "title": "763莫渊",
+    "url": "https://www.xbiquge.cc/book/24276/29979532.html",
+    "origetitle": "第七百六十三章 莫渊"
+  },
+  {
+    "title": "764战启",
+    "url": "https://www.xbiquge.cc/book/24276/29998505.html",
+    "origetitle": "第七百六十四章 战启"
+  },
+  {
+    "title": "765伊秋水的隐藏",
+    "url": "https://www.xbiquge.cc/book/24276/30029020.html",
+    "origetitle": "第七百六十五章 伊秋水的隐藏"
+  },
+  {
+    "title": "766天蛟显威",
+    "url": "https://www.xbiquge.cc/book/24276/30053330.html",
+    "origetitle": "第七百六十六章 天蛟显威"
+  },
+  {
+    "title": "767青蛟对魔猿",
+    "url": "https://www.xbiquge.cc/book/24276/30076933.html",
+    "origetitle": "第七百六十七章 青蛟对魔猿"
+  },
+  {
+    "title": "768八百万",
+    "url": "https://www.xbiquge.cc/book/24276/30107351.html",
+    "origetitle": "第七百六十八章 八百万"
+  },
+  {
+    "title": "769狠斗",
+    "url": "https://www.xbiquge.cc/book/24276/30117714.html",
+    "origetitle": "第七百六十九章 狠斗"
+  },
+  {
+    "title": "770青蛟形态",
+    "url": "https://www.xbiquge.cc/book/24276/30154626.html",
+    "origetitle": "第七百七十章 青蛟形态"
+  },
+  {
+    "title": "771威胁",
+    "url": "https://www.xbiquge.cc/book/24276/30201053.html",
+    "origetitle": "第七百七十一章 威胁"
+  },
+  {
+    "title": "772大腿",
+    "url": "https://www.xbiquge.cc/book/24276/30230628.html",
+    "origetitle": "第七百七十二章 大腿"
+  },
+  {
+    "title": "773古玺",
+    "url": "https://www.xbiquge.cc/book/24276/30234576.html",
+    "origetitle": "第七百七十三章 古玺"
+  },
+  {
+    "title": "774拒绝",
+    "url": "https://www.xbiquge.cc/book/24276/30284379.html",
+    "origetitle": "第七百七十四章 拒绝"
+  },
+  {
+    "title": "775天渊洞天",
+    "url": "https://www.xbiquge.cc/book/24276/30295989.html",
+    "origetitle": "第七百七十五章 天渊洞天"
+  },
+  {
+    "title": "776郗菁师姐",
+    "url": "https://www.xbiquge.cc/book/24276/30323858.html",
+    "origetitle": "第七百七十六章 郗菁师姐"
+  },
+  {
+    "title": "777风阁副阁主",
+    "url": "https://www.xbiquge.cc/book/24276/30326645.html",
+    "origetitle": "第七百七十七章 风阁副阁主"
+  },
+  {
+    "title": "778认师姐",
+    "url": "https://www.xbiquge.cc/book/24276/30333935.html",
+    "origetitle": "第七百七十八章 认师姐"
+  },
+  {
+    "title": "779九域大会",
+    "url": "https://www.xbiquge.cc/book/24276/30336959.html",
+    "origetitle": "第七百七十九章 九域大会"
+  },
+  {
+    "title": "780风阁",
+    "url": "https://www.xbiquge.cc/book/24276/30351855.html",
+    "origetitle": "第七百八十章 风阁"
+  },
+  {
+    "title": "781风波",
+    "url": "https://www.xbiquge.cc/book/24276/30361553.html",
+    "origetitle": "第七百八十一章 风波"
+  },
+  {
+    "title": "782一剑",
+    "url": "https://www.xbiquge.cc/book/24276/30368392.html",
+    "origetitle": "第七百八十二章 一剑"
+  },
+  {
+    "title": "783任职副阁主",
+    "url": "https://www.xbiquge.cc/book/24276/30377154.html",
+    "origetitle": "第七百八十三章 任职副阁主"
+  },
+  {
+    "title": "784九府之分",
+    "url": "https://www.xbiquge.cc/book/24276/30385508.html",
+    "origetitle": "第七百八十四章 九府之分"
+  },
+  {
+    "title": "785四灵归源塔",
+    "url": "https://www.xbiquge.cc/book/24276/30388329.html",
+    "origetitle": "第七百八十五章 四灵归源塔"
+  },
+  {
+    "title": "786五重府",
+    "url": "https://www.xbiquge.cc/book/24276/30395558.html",
+    "origetitle": "第七百八十六章 五重府"
+  },
+  {
+    "title": "787设计",
+    "url": "https://www.xbiquge.cc/book/24276/30397463.html",
+    "origetitle": "第七百八十七章 设计"
+  },
+  {
+    "title": "788风域",
+    "url": "https://www.xbiquge.cc/book/24276/30414668.html",
+    "origetitle": "第七百八十八章 风域"
+  },
+  {
+    "title": "789风层异变",
+    "url": "https://www.xbiquge.cc/book/24276/30417982.html",
+    "origetitle": "第七百八十九章 风层异变"
+  },
+  {
+    "title": "790化境",
+    "url": "https://www.xbiquge.cc/book/24276/30429975.html",
+    "origetitle": "第七百九十章 化境"
+  },
+  {
+    "title": "791打断",
+    "url": "https://www.xbiquge.cc/book/24276/30432392.html",
+    "origetitle": "第七百九十一章 打断"
+  },
+  {
+    "title": "792秒杀",
+    "url": "https://www.xbiquge.cc/book/24276/30441613.html",
+    "origetitle": "第七百九十二章 秒杀"
+  },
+  {
+    "title": "793治罪",
+    "url": "https://www.xbiquge.cc/book/24276/30449375.html",
+    "origetitle": "第七百九十三章 治罪"
+  },
+  {
+    "title": "794雷霆之威",
+    "url": "https://www.xbiquge.cc/book/24276/30460543.html",
+    "origetitle": "第七百九十四章 雷霆之威"
+  },
+  {
+    "title": "795统领之位",
+    "url": "https://www.xbiquge.cc/book/24276/30466588.html",
+    "origetitle": "第七百九十五章 统领之位"
+  },
+  {
+    "title": "796统领之争",
+    "url": "https://www.xbiquge.cc/book/24276/30472632.html",
+    "origetitle": "第七百九十六章 统领之争"
+  },
+  {
+    "title": "797捕痕纹",
+    "url": "https://www.xbiquge.cc/book/24276/30475004.html",
+    "origetitle": "第七百九十七章 捕痕纹"
+  },
+  {
+    "title": "798风岛局势",
+    "url": "https://www.xbiquge.cc/book/24276/30489397.html",
+    "origetitle": "第七百九十八章 风岛局势"
+  },
+  {
+    "title": "799推衍",
+    "url": "https://www.xbiquge.cc/book/24276/30491954.html",
+    "origetitle": "第七百九十九章 推衍"
+  },
+  {
+    "title": "800灵光",
+    "url": "https://www.xbiquge.cc/book/24276/30498270.html",
+    "origetitle": "第八百章 灵光"
+  },
+  {
+    "title": "801风母纹",
+    "url": "https://www.xbiquge.cc/book/24276/30500491.html",
+    "origetitle": "第八百零一章 风母纹"
+  },
+  {
+    "title": "802震撼",
+    "url": "https://www.xbiquge.cc/book/24276/30509962.html",
+    "origetitle": "第八百零二章 震撼"
+  },
+  {
+    "title": "803反击",
+    "url": "https://www.xbiquge.cc/book/24276/30518594.html",
+    "origetitle": "第八百零三章 反击"
+  },
+  {
+    "title": "804风母纹的影响",
+    "url": "https://www.xbiquge.cc/book/24276/30528904.html",
+    "origetitle": "第八百零四章 风母纹的影响"
+  },
+  {
+    "title": "805吕霄",
+    "url": "https://www.xbiquge.cc/book/24276/30535546.html",
+    "origetitle": "第八百零五章 吕霄"
+  },
+  {
+    "title": "806与吕霄的交锋",
+    "url": "https://www.xbiquge.cc/book/24276/30538012.html",
+    "origetitle": "第八百零六章 与吕霄的交锋"
+  },
+  {
+    "title": "807大争前夕",
+    "url": "https://www.xbiquge.cc/book/24276/30547188.html",
+    "origetitle": "第八百零七章 大争前夕"
+  },
+  {
+    "title": "808阁主之争",
+    "url": "https://www.xbiquge.cc/book/24276/30547190.html",
+    "origetitle": "第八百零八章 阁主之争"
+  },
+  {
+    "title": "809木柳",
+    "url": "https://www.xbiquge.cc/book/24276/30552692.html",
+    "origetitle": "第八百零九章 木柳"
+  },
+  {
+    "title": "810八成",
+    "url": "https://www.xbiquge.cc/book/24276/30555595.html",
+    "origetitle": "第八百一十章 八成"
+  },
+  {
+    "title": "811周元上场",
+    "url": "https://www.xbiquge.cc/book/24276/30571521.html",
+    "origetitle": "第八百一十一章 周元上场"
+  },
+  {
+    "title": "812够了吗？",
+    "url": "https://www.xbiquge.cc/book/24276/30574110.html",
+    "origetitle": "第八百一十二章 够了吗？"
+  },
+  {
+    "title": "813完整风灵纹的震撼",
+    "url": "https://www.xbiquge.cc/book/24276/30586665.html",
+    "origetitle": "第八百一十三章 完整风灵纹的震撼"
+  },
+  {
+    "title": "814逆袭与逆袭",
+    "url": "https://www.xbiquge.cc/book/24276/30597064.html",
+    "origetitle": "第八百一十四章 逆袭与逆袭"
+  },
+  {
+    "title": "815赤魔虫砂",
+    "url": "https://www.xbiquge.cc/book/24276/30624589.html",
+    "origetitle": "第八百一十五章 赤魔虫砂"
+  },
+  {
+    "title": "816又是那一剑",
+    "url": "https://www.xbiquge.cc/book/24276/30649921.html",
+    "origetitle": "第八百一十六章 又是那一剑"
+  },
+  {
+    "title": "817风阁阁主",
+    "url": "https://www.xbiquge.cc/book/24276/30684564.html",
+    "origetitle": "第八百一十七章 风阁阁主"
+  },
+  {
+    "title": "818总阁主之争",
+    "url": "https://www.xbiquge.cc/book/24276/30716850.html",
+    "origetitle": "第八百一十八章 总阁主之争"
+  },
+  {
+    "title": "819新人大典",
+    "url": "https://www.xbiquge.cc/book/24276/30716851.html",
+    "origetitle": "第八百一十九章 新人大典"
+  },
+  {
+    "title": "820最富的崽",
+    "url": "https://www.xbiquge.cc/book/24276/30716852.html",
+    "origetitle": "第八百二十章 最富的崽"
+  },
+  {
+    "title": "821阁主会议",
+    "url": "https://www.xbiquge.cc/book/24276/30721379.html",
+    "origetitle": "第八百二十一章 阁主会议"
+  },
+  {
+    "title": "822方鳌",
+    "url": "https://www.xbiquge.cc/book/24276/30749547.html",
+    "origetitle": "第八百二十二章 方鳌"
+  },
+  {
+    "title": "823能屈能伸",
+    "url": "https://www.xbiquge.cc/book/24276/30754421.html",
+    "origetitle": "第八百二十三章 能屈能伸"
+  },
+  {
+    "title": "824优中则优",
+    "url": "https://www.xbiquge.cc/book/24276/30760730.html",
+    "origetitle": "第八百二十四章 优中则优"
+  },
+  {
+    "title": "825全新的待遇",
+    "url": "https://www.xbiquge.cc/book/24276/30762827.html",
+    "origetitle": "第八百二十五章 全新的待遇"
+  },
+  {
+    "title": "826一败涂地",
+    "url": "https://www.xbiquge.cc/book/24276/30778700.html",
+    "origetitle": "第八百二十六章 一败涂地"
+  },
+  {
+    "title": "827第二道源纹",
+    "url": "https://www.xbiquge.cc/book/24276/30789853.html",
+    "origetitle": "第八百二十七章 第二道源纹"
+  },
+  {
+    "title": "828第六重神府",
+    "url": "https://www.xbiquge.cc/book/24276/30803205.html",
+    "origetitle": "第八百二十八章 第六重神府"
+  },
+  {
+    "title": "829天湮兽心",
+    "url": "https://www.xbiquge.cc/book/24276/30805573.html",
+    "origetitle": "第八百二十九章 天湮兽心"
+  },
+  {
+    "title": "830称职的大管家",
+    "url": "https://www.xbiquge.cc/book/24276/30836122.html",
+    "origetitle": "第八百三十章 称职的大管家"
+  },
+  {
+    "title": "831算计",
+    "url": "https://www.xbiquge.cc/book/24276/30849130.html",
+    "origetitle": "第八百三十一章 算计"
+  },
+  {
+    "title": "832雨州",
+    "url": "https://www.xbiquge.cc/book/24276/30849131.html",
+    "origetitle": "第八百三十二章 雨州"
+  },
+  {
+    "title": "833陷阱",
+    "url": "https://www.xbiquge.cc/book/24276/30875025.html",
+    "origetitle": "第八百三十三章 陷阱"
+  },
+  {
+    "title": "834渔翁变打手",
+    "url": "https://www.xbiquge.cc/book/24276/30892642.html",
+    "origetitle": "第八百三十四章 渔翁变打手"
+  },
+  {
+    "title": "835吞魂",
+    "url": "https://www.xbiquge.cc/book/24276/30904220.html",
+    "origetitle": "第八百三十五章 吞魂"
+  },
+  {
+    "title": "836压你",
+    "url": "https://www.xbiquge.cc/book/24276/30910040.html",
+    "origetitle": "第八百三十六章 压你"
+  },
+  {
+    "title": "837葬魂",
+    "url": "https://www.xbiquge.cc/book/24276/30936789.html",
+    "origetitle": "第八百三十七章 葬魂"
+  },
+  {
+    "title": "838锡光府主",
+    "url": "https://www.xbiquge.cc/book/24276/30984767.html",
+    "origetitle": "第八百三十八章 锡光府主"
+  },
+  {
+    "title": "839暗杀",
+    "url": "https://www.xbiquge.cc/book/24276/31006282.html",
+    "origetitle": "第八百三十九章 暗杀"
+  },
+  {
+    "title": "840法域出手",
+    "url": "https://www.xbiquge.cc/book/24276/31027770.html",
+    "origetitle": "第八百四十章 法域出手"
+  },
+  {
+    "title": "841颠倒黑白",
+    "url": "https://www.xbiquge.cc/book/24276/31036892.html",
+    "origetitle": "第八百四十一章 颠倒黑白"
+  },
+  {
+    "title": "842天炎祭",
+    "url": "https://www.xbiquge.cc/book/24276/31037949.html",
+    "origetitle": "第八百四十二章 天炎祭"
+  },
+  {
+    "title": "843联合镇压",
+    "url": "https://www.xbiquge.cc/book/24276/31046181.html",
+    "origetitle": "第八百四十三章 联合镇压"
+  },
+  {
+    "title": "844神魂夺炎",
+    "url": "https://www.xbiquge.cc/book/24276/31057240.html",
+    "origetitle": "第八百四十四章 神魂夺炎"
+  },
+  {
+    "title": "845神魂操练",
+    "url": "https://www.xbiquge.cc/book/24276/31066177.html",
+    "origetitle": "第八百四十五章 神魂操练"
+  },
+  {
+    "title": "846木柳到访",
+    "url": "https://www.xbiquge.cc/book/24276/31074716.html",
+    "origetitle": "第八百四十六章 木柳到访"
+  },
+  {
+    "title": "847联手",
+    "url": "https://www.xbiquge.cc/book/24276/31082887.html",
+    "origetitle": "第八百四十七章 联手"
+  },
+  {
+    "title": "848吞魂源痕",
+    "url": "https://www.xbiquge.cc/book/24276/31085811.html",
+    "origetitle": "第八百四十八章 吞魂源痕"
+  },
+  {
+    "title": "849又一底牌",
+    "url": "https://www.xbiquge.cc/book/24276/31091978.html",
+    "origetitle": "第八百四十九章 又一底牌"
+  },
+  {
+    "title": "850万事俱备",
+    "url": "https://www.xbiquge.cc/book/24276/31103169.html",
+    "origetitle": "第八百五十章 万事俱备"
+  },
+  {
+    "title": "851开鼎",
+    "url": "https://www.xbiquge.cc/book/24276/31108314.html",
+    "origetitle": "第八百五十一章 开鼎"
+  },
+  {
+    "title": "852赤铜伞，聚火台",
+    "url": "https://www.xbiquge.cc/book/24276/31114777.html",
+    "origetitle": "第八百五十二章 赤铜伞，聚火台"
+  },
+  {
+    "title": "853灭王尘",
+    "url": "https://www.xbiquge.cc/book/24276/31118257.html",
+    "origetitle": "第八百五十三章 灭王尘"
+  },
+  {
+    "title": "854驰援",
+    "url": "https://www.xbiquge.cc/book/24276/31131931.html",
+    "origetitle": "第八百五十四章 驰援"
+  },
+  {
+    "title": "885风与火的对决",
+    "url": "https://www.xbiquge.cc/book/24276/31152348.html",
+    "origetitle": "第八百八十五章 风与火的对决"
+  },
+  {
+    "title": "856破魂梭",
+    "url": "https://www.xbiquge.cc/book/24276/31182556.html",
+    "origetitle": "第八百五十六章 破魂梭"
+  },
+  {
+    "title": "857吞魂源痕显威",
+    "url": "https://www.xbiquge.cc/book/24276/31240436.html",
+    "origetitle": "第八百五十七章 吞魂源痕显威"
+  },
+  {
+    "title": "858魂灯术",
+    "url": "https://www.xbiquge.cc/book/24276/31249215.html",
+    "origetitle": "第八百五十八章 魂灯术"
+  },
+  {
+    "title": "859最后赢家",
+    "url": "https://www.xbiquge.cc/book/24276/31259033.html",
+    "origetitle": "第八百五十九章 最后赢家"
+  },
+  {
+    "title": "860战利品",
+    "url": "https://www.xbiquge.cc/book/24276/31267535.html",
+    "origetitle": "第八百六十章 战利品"
+  },
+  {
+    "title": "861影响",
+    "url": "https://www.xbiquge.cc/book/24276/31276141.html",
+    "origetitle": "第八百六十一章 影响"
+  },
+  {
+    "title": "862备战",
+    "url": "https://www.xbiquge.cc/book/24276/31282025.html",
+    "origetitle": "第八百六十二章 备战"
+  },
+  {
+    "title": "863闭关",
+    "url": "https://www.xbiquge.cc/book/24276/31284561.html",
+    "origetitle": "第八百六十三章 闭关"
+  },
+  {
+    "title": "864左雅",
+    "url": "https://www.xbiquge.cc/book/24276/31291269.html",
+    "origetitle": "第八百六十四章 左雅"
+  },
+  {
+    "title": "865赌斗",
+    "url": "https://www.xbiquge.cc/book/24276/31293206.html",
+    "origetitle": "第八百六十五章 赌斗"
+  },
+  {
+    "title": "866神府境后期",
+    "url": "https://www.xbiquge.cc/book/24276/31300690.html",
+    "origetitle": "第八百六十六章 神府境后期"
+  },
+  {
+    "title": "867总阁主之争开启",
+    "url": "https://www.xbiquge.cc/book/24276/31308764.html",
+    "origetitle": "第八百六十七章 总阁主之争开启"
+  },
+  {
+    "title": "868五大元老",
+    "url": "https://www.xbiquge.cc/book/24276/31331599.html",
+    "origetitle": "第八百六十八章 五大元老"
+  },
+  {
+    "title": "869云梯",
+    "url": "https://www.xbiquge.cc/book/24276/31335789.html",
+    "origetitle": "第八百六十九章 云梯"
+  },
+  {
+    "title": "870乘蛟而上",
+    "url": "https://www.xbiquge.cc/book/24276/31408836.html",
+    "origetitle": "第八百七十章 乘蛟而上"
+  },
+  {
+    "title": "871齐登",
+    "url": "https://www.xbiquge.cc/book/24276/31448539.html",
+    "origetitle": "第八百七十一章 齐登"
+  },
+  {
+    "title": "872第二轮",
+    "url": "https://www.xbiquge.cc/book/24276/31459069.html",
+    "origetitle": "第八百七十二章 第二轮"
+  },
+  {
+    "title": "873对战韩渊",
+    "url": "https://www.xbiquge.cc/book/24276/31507307.html",
+    "origetitle": "第八百七十三章 对战韩渊"
+  },
+  {
+    "title": "874韩渊的隐藏",
+    "url": "https://www.xbiquge.cc/book/24276/31544835.html",
+    "origetitle": "第八百七十四章 韩渊的隐藏"
+  },
+  {
+    "title": "875黑天魔",
+    "url": "https://www.xbiquge.cc/book/24276/31552402.html",
+    "origetitle": "第八百七十五章 黑天魔"
+  },
+  {
+    "title": "876吕霄取胜",
+    "url": "https://www.xbiquge.cc/book/24276/31592989.html",
+    "origetitle": "第八百七十六章 吕霄取胜"
+  },
+  {
+    "title": "877最后一轮",
+    "url": "https://www.xbiquge.cc/book/24276/31621039.html",
+    "origetitle": "第八百七十七章 最后一轮"
+  },
+  {
+    "title": "888周元战吕霄",
+    "url": "https://www.xbiquge.cc/book/24276/31636645.html",
+    "origetitle": "第八百八十八章 周元战吕霄"
+  },
+  {
+    "title": "879两段葬魂",
+    "url": "https://www.xbiquge.cc/book/24276/31656270.html",
+    "origetitle": "第八百七十九章 两段葬魂"
+  },
+  {
+    "title": "880吕霄的底牌",
+    "url": "https://www.xbiquge.cc/book/24276/31703383.html",
+    "origetitle": "第八百八十章 吕霄的底牌"
+  },
+  {
+    "title": "881深渊九头蟒",
+    "url": "https://www.xbiquge.cc/book/24276/31715086.html",
+    "origetitle": "第八百八十一章 深渊九头蟒"
+  },
+  {
+    "title": "882怨龙现",
+    "url": "https://www.xbiquge.cc/book/24276/31731953.html",
+    "origetitle": "第八百八十二章 怨龙现"
+  },
+  {
+    "title": "883怨龙灭蟒",
+    "url": "https://www.xbiquge.cc/book/24276/31747319.html",
+    "origetitle": "第八百八十三章 怨龙灭蟒"
+  },
+  {
+    "title": "884总阁主",
+    "url": "https://www.xbiquge.cc/book/24276/31757773.html",
+    "origetitle": "第八百八十四章 总阁主"
+  },
+  {
+    "title": "885四阁慑服",
+    "url": "https://www.xbiquge.cc/book/24276/31814443.html",
+    "origetitle": "第八百八十五章 四阁慑服"
+  },
+  {
+    "title": "886玄机域",
+    "url": "https://www.xbiquge.cc/book/24276/31835702.html",
+    "origetitle": "第八百八十六章 玄机域"
+  },
+  {
+    "title": "887赵牧神",
+    "url": "https://www.xbiquge.cc/book/24276/31868180.html",
+    "origetitle": "第八百八十七章 赵牧神"
+  },
+  {
+    "title": "888武瑶与苏幼微",
+    "url": "https://www.xbiquge.cc/book/24276/31878591.html",
+    "origetitle": "第八百八十八章 武瑶与苏幼微"
+  },
+  {
+    "title": "889分化",
+    "url": "https://www.xbiquge.cc/book/24276/31889052.html",
+    "origetitle": "第八百八十九章 分化"
+  },
+  {
+    "title": "890大棒与甜枣",
+    "url": "https://www.xbiquge.cc/book/24276/31898539.html",
+    "origetitle": "第八百九十章 大棒与甜枣"
+  },
+  {
+    "title": "891火阁内乱",
+    "url": "https://www.xbiquge.cc/book/24276/31913204.html",
+    "origetitle": "第八百九十一章 火阁内乱"
+  },
+  {
+    "title": "892万术殿",
+    "url": "https://www.xbiquge.cc/book/24276/31933806.html",
+    "origetitle": "第八百九十二章 万术殿"
+  },
+  {
+    "title": "893法域本源",
+    "url": "https://www.xbiquge.cc/book/24276/31941782.html",
+    "origetitle": "第八百九十三章 法域本源"
+  },
+  {
+    "title": "894挑选小圣术",
+    "url": "https://www.xbiquge.cc/book/24276/31949354.html",
+    "origetitle": "第八百九十四章 挑选小圣术"
+  },
+  {
+    "title": "895阴阳雷纹鉴",
+    "url": "https://www.xbiquge.cc/book/24276/31965881.html",
+    "origetitle": "第八百九十五章 阴阳雷纹鉴"
+  },
+  {
+    "title": "896暴露",
+    "url": "https://www.xbiquge.cc/book/24276/31970556.html",
+    "origetitle": "第八百九十六章 暴露"
+  },
+  {
+    "title": "897静修四源纹",
+    "url": "https://www.xbiquge.cc/book/24276/31984030.html",
+    "origetitle": "第八百九十七章 静修四源纹"
+  },
+  {
+    "title": "898战书",
+    "url": "https://www.xbiquge.cc/book/24276/31993883.html",
+    "origetitle": "第八百九十八章 战书"
+  },
+  {
+    "title": "899接",
+    "url": "https://www.xbiquge.cc/book/24276/32006124.html",
+    "origetitle": "第八百九十九章 接"
+  },
+  {
+    "title": "900战书沸腾",
+    "url": "https://www.xbiquge.cc/book/24276/32026765.html",
+    "origetitle": "第九百章 战书沸腾"
+  },
+  {
+    "title": "901各方关注",
+    "url": "https://www.xbiquge.cc/book/24276/32058509.html",
+    "origetitle": "第九百零一章 各方关注"
+  },
+  {
+    "title": "902无边涧",
+    "url": "https://www.xbiquge.cc/book/24276/32066388.html",
+    "origetitle": "第九百零二章 无边涧"
+  },
+  {
+    "title": "903凭什么",
+    "url": "https://www.xbiquge.cc/book/24276/32076136.html",
+    "origetitle": "第九百零三章 凭什么"
+  },
+  {
+    "title": "904战陈玄东",
+    "url": "https://www.xbiquge.cc/book/24276/32091356.html",
+    "origetitle": "第九百零四章 战陈玄东"
+  },
+  {
+    "title": "905四纹",
+    "url": "https://www.xbiquge.cc/book/24276/32102606.html",
+    "origetitle": "第九百零五章 四纹"
+  },
+  {
+    "title": "907四灵归源图",
+    "url": "https://www.xbiquge.cc/book/24276/32116891.html",
+    "origetitle": "第九百零七章 四灵归源图"
+  },
+  {
+    "title": "907再败第九",
+    "url": "https://www.xbiquge.cc/book/24276/32128236.html",
+    "origetitle": "第九百零七章 再败第九"
+  },
+  {
+    "title": "908坐稳第九",
+    "url": "https://www.xbiquge.cc/book/24276/32140494.html",
+    "origetitle": "第九百零八章 坐稳第九"
+  },
+  {
+    "title": "809大敌",
+    "url": "https://www.xbiquge.cc/book/24276/32148808.html",
+    "origetitle": "第八百零九章 大敌"
+  },
+  {
+    "title": "910先天灵机",
+    "url": "https://www.xbiquge.cc/book/24276/32157251.html",
+    "origetitle": "第九百一十章 先天灵机"
+  },
+  {
+    "title": "911银影进化",
+    "url": "https://www.xbiquge.cc/book/24276/32171302.html",
+    "origetitle": "第九百一十一章 银影进化"
+  },
+  {
+    "title": "912求援",
+    "url": "https://www.xbiquge.cc/book/24276/32179417.html",
+    "origetitle": "第九百一十二章 求援"
+  },
+  {
+    "title": "913底蕴暴涨",
+    "url": "https://www.xbiquge.cc/book/24276/32187509.html",
+    "origetitle": "第九百一十三章 底蕴暴涨"
+  },
+  {
+    "title": "914大幕拉开",
+    "url": "https://www.xbiquge.cc/book/24276/32195551.html",
+    "origetitle": "第九百一十四章 大幕拉开"
+  },
+  {
+    "title": "915陨落之城",
+    "url": "https://www.xbiquge.cc/book/24276/32210941.html",
+    "origetitle": "第九百一十五章 陨落之城"
+  },
+  {
+    "title": "916徐暝",
+    "url": "https://www.xbiquge.cc/book/24276/32222512.html",
+    "origetitle": "第九百一十六章 徐暝"
+  },
+  {
+    "title": "917再遇苏幼薇",
+    "url": "https://www.xbiquge.cc/book/24276/32238113.html",
+    "origetitle": "第九百一十七章 再遇苏幼薇"
+  },
+  {
+    "title": "918什么关系？",
+    "url": "https://www.xbiquge.cc/book/24276/32260366.html",
+    "origetitle": "第九百一十八章 什么关系？"
+  },
+  {
+    "title": "919红颜祸水",
+    "url": "https://www.xbiquge.cc/book/24276/32277684.html",
+    "origetitle": "第九百一十九章 红颜祸水"
+  },
+  {
+    "title": "920真好",
+    "url": "https://www.xbiquge.cc/book/24276/32299579.html",
+    "origetitle": "第九百二十章 真好"
+  },
+  {
+    "title": "921夜谈",
+    "url": "https://www.xbiquge.cc/book/24276/32306144.html",
+    "origetitle": "第九百二十一章 夜谈"
+  },
+  {
+    "title": "922斩九龙",
+    "url": "https://www.xbiquge.cc/book/24276/32312498.html",
+    "origetitle": "第九百二十二章 斩九龙"
+  },
+  {
+    "title": "923抽签",
+    "url": "https://www.xbiquge.cc/book/24276/32320423.html",
+    "origetitle": "第九百二十三章 抽签"
+  },
+  {
+    "title": "924有我",
+    "url": "https://www.xbiquge.cc/book/24276/32347037.html",
+    "origetitle": "第九百二十四章 有我"
+  },
+  {
+    "title": "925闯关开始",
+    "url": "https://www.xbiquge.cc/book/24276/32383564.html",
+    "origetitle": "第九百二十五章 闯关开始"
+  },
+  {
+    "title": "926陷阱",
+    "url": "https://www.xbiquge.cc/book/24276/32398307.html",
+    "origetitle": "第九百二十六章 陷阱"
+  },
+  {
+    "title": "927一拳",
+    "url": "https://www.xbiquge.cc/book/24276/32448018.html",
+    "origetitle": "第九百二十七章 一拳"
+  },
+  {
+    "title": "928卢海的反击",
+    "url": "https://www.xbiquge.cc/book/24276/32508515.html",
+    "origetitle": "第九百二十八章 卢海的反击"
+  },
+  {
+    "title": "929影仙戏五杰",
+    "url": "https://www.xbiquge.cc/book/24276/32536443.html",
+    "origetitle": "第九百二十九章 影仙戏五杰"
+  },
+  {
+    "title": "930过关",
+    "url": "https://www.xbiquge.cc/book/24276/32559062.html",
+    "origetitle": "第九百三十章 过关"
+  },
+  {
+    "title": "931好戏开场",
+    "url": "https://www.xbiquge.cc/book/24276/32579428.html",
+    "origetitle": "第九百三十一章 好戏开场"
+  },
+  {
+    "title": "932分队",
+    "url": "https://www.xbiquge.cc/book/24276/32600527.html",
+    "origetitle": "第九百三十二章 分队"
+  },
+  {
+    "title": "934小空间",
+    "url": "https://www.xbiquge.cc/book/24276/32638170.html",
+    "origetitle": "第九百三十四章 小空间"
+  },
+  {
+    "title": "934算计",
+    "url": "https://www.xbiquge.cc/book/24276/32682348.html",
+    "origetitle": "第九百三十四章 算计"
+  },
+  {
+    "title": "935遭遇",
+    "url": "https://www.xbiquge.cc/book/24276/32707563.html",
+    "origetitle": "第九百三十五章 遭遇"
+  },
+  {
+    "title": "936第一次交锋",
+    "url": "https://www.xbiquge.cc/book/24276/32741392.html",
+    "origetitle": "第九百三十六章 第一次交锋"
+  },
+  {
+    "title": "937退避",
+    "url": "https://www.xbiquge.cc/book/24276/32766581.html",
+    "origetitle": "第九百三十七章 退避"
+  }
+]
