@@ -6,7 +6,7 @@ const { log, cachedUrl, writeToFile } = require('../utils/index')
 const dirForNovelId = require('./dirForNovelId')
 const { headers } = require('./headers')
 const pathLib = require('path')
-// const fs = require('fs')
+const fs = require('fs')
 
 const novelFromBody = body => {
   const options = {
@@ -38,10 +38,14 @@ const __main = function() {
             `./novelData/${novelId}/${t.title}.txt`
           )
 
-          // fs.exists(path)
-          const novel = novelFromBody(body).slice(42)
-          // 保存小说
-          writeToFile(path, novel)
+          fs.exists(path, function(exists) {
+            if (!exists) {
+              console.log('更新小说章节', path)
+              const novel = novelFromBody(body).slice(42)
+              // 保存小说
+              writeToFile(path, novel)
+            }
+          })
         } else {
           log('*** ERROR 请求失败 ', error)
         }

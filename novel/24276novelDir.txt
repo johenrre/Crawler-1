@@ -4703,5 +4703,10 @@
     "title": "937退避",
     "url": "https://www.xbiquge.cc/book/24276/32766581.html",
     "origetitle": "第九百三十七章 退避"
+  },
+  {
+    "title": "938法域争斗",
+    "url": "https://www.xbiquge.cc/book/24276/32791193.html",
+    "origetitle": "第九百三十八章 法域争斗"
   }
 ]

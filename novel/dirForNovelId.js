@@ -3,6 +3,8 @@ const { headers } = require('./headers')
 const cheerio = require('cheerio')
 const pathLib = require('path')
 const fs = require('fs')
+const request = require('request')
+const iconv = require('iconv-lite')
 
 function Chapter() {
   this.title = ''
@@ -77,19 +79,17 @@ const dirForNovelId = (novelId, callback) => {
   }
   const path = pathLib.join(__dirname, `./${novelId}novelDir.txt`)
 
-  fs.readFile(path, function(err, data) {
-    if (err != null) {
-      cachedUrl(options, function(error, response, body) {
-        if (error === null && response.statusCode == 200) {
-          const chapters = novelFromBody(body)
-          saveJSON(path, chapters)
-          callback(chapters)
-        } else {
-          log('*** ERROR 请求失败 ', error)
-        }
-      })
+  request(options, function(error, response, body) {
+    //进行解码
+    const bufs = iconv.decode(body, 'GBK')
+    //转为utf8
+    const data = bufs.toString('utf8')
+    if (error === null && response.statusCode == 200) {
+      const chapters = novelFromBody(data)
+      saveJSON(path, chapters)
+      callback(chapters)
     } else {
-      callback(JSON.parse(data))
+      log('*** ERROR 请求失败 ', error)
     }
   })
 }
