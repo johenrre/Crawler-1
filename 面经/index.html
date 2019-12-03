@@ -13,6 +13,7 @@
       width: 100%;
       border: 0px;
       margin: 0px;
+      overflow: hidden;
     }
 
     .control {
@@ -29,6 +30,11 @@
       width: 20%;
       height: 100%;
       display: inline-block;
+      overflow: scroll;
+    }
+
+    .active {
+      background: cornflowerblue;
     }
 
     iframe {
@@ -36,31 +42,50 @@
       height: 100%;
       display: inline-block;
     }
+
+    li {
+      white-space: nowrap;
+    }
+
+    .log {
+      text-align: center;
+      font-size: 40px;
+    }
   </style>
 </head>
 
 <body>
   <div class="control">
-    <button class="next">下一个</button>
-    <button class="pre">上一个</button>
-    <button class="all">显示所有</button>
+    <!-- <button class="all">显示所有</button> -->
+    <select class="type">
+      <option value="qianduan">前端</option>
+      <option value="houduan">后端</option>
+      <option value="qita">其他</option>
+      <option value="all">全部</option>
+    </select>
     <button class="lin">显示lin回答</button>
     <button class="star">显示收藏列表</button>
     <button class="addStar">添加收藏</button>
     <button class="removeStar">取消收藏</button>
     <button class="saveStar">保存收藏到本地文件</button>
+    <span class="listNumbers"></span>
   </div>
 
   <div class="main">
     <div class="list"></div>
     <iframe frameborder="0"></iframe>
   </div>
+  <div class="log"></div>
   <script>
     var e = function (className) { return document.querySelector(className); };
 
     const changeArticle = (url) => {
       const iframe = e('iframe')
       iframe.src = url
+    }
+
+    const log = (msg) => {
+      document.querySelector('.log').innerHTML = msg
     }
 
     function fakeClick(obj) {
@@ -90,27 +115,100 @@
       rawFile.send(null);
     }
 
+    const randerList = (list) => {
+      let html = '<ul>'
+      list.forEach(item => {
+        const li = `<li data-id="${item.id}">${item.title}</li>`
+        html += li
+      })
+      document.querySelector('.list').innerHTML = html += '</ul>'
+      document.querySelector('.listNumbers').innerHTML = '当前列表有' + String(list.length) + '个'
+    }
+
     const main = () => {
-      const url = './cache/https---www.kuaibiancheng.com-topics-1100.html'
-      // const url = './cache/https---www.kuaibiancheng.com-topics-600.html'
-      changeArticle(url)
-      let listData = ''
+      let listData = null
+      let activeArcId = null
 
       readTextFile("./test", function (text) {
         listData = JSON.parse(text);
+        listData.sort((a, b) => {
+          return a.id - b.id
+        }).reverse()
         console.log('list', listData);
+        const l = listData.filter(item => item.type == '前端')
+        randerList(l)
       });
-
+      // 添加收藏
       document.querySelector('.addStar').addEventListener('click', () => {
-        localStorage.setItem('star', 'test11')
+        let starList = JSON.parse(localStorage.getItem('star'))
+        if (!starList) {
+          starList = []
+        }
+
+        if (activeArcId !== null && starList.indexOf(activeArcId) == -1) {
+          starList.push(activeArcId)
+          localStorage.setItem('star', JSON.stringify(starList))
+          const msg = `收藏成功 ${activeArcId}`
+          console.log('starList', starList);
+          log(msg)
+        }
       })
+      // 取消收藏
       document.querySelector('.removeStar').addEventListener('click', () => {
-        const star = localStorage.getItem('star')
-        console.log('star', star);
+        let starList = JSON.parse(localStorage.getItem('star'))
+        const index = starList.indexOf(activeArcId)
+        if (index !== -1) {
+          starList.splice(index, 1)
+          log('取消收藏成功')
+          console.log('starList', starList);
+          localStorage.setItem('star', JSON.stringify(starList))
+        }
       })
+      // 保存收藏文件到本地
       document.querySelector('.saveStar').addEventListener('click', () => {
         const data = localStorage.getItem('star')
         saveData('star', data)
+      })
+      // 根据类型显示列表
+      document.querySelector('.type').addEventListener('change', (event) => {
+        const value = event.target.value
+        if (value === 'qianduan') {
+          const l = listData.filter(item => item.type == '前端')
+          randerList(l)
+        } else if (value === 'houduan') {
+          const l = listData.filter(item => item.type == '后端')
+          randerList(l)
+        } else if (value === 'qita') {
+          const l = listData.filter(item => item.type == '其他')
+          randerList(l)
+        } else if (value === 'all') {
+          randerList(listData)
+        }
+      })
+      // 显示lin回答
+      document.querySelector('.lin').addEventListener('click', () => {
+        const l = listData.filter(item => item.isLin)
+        randerList(l)
+      })
+      // 显示收藏
+      // 显示lin回答和收藏
+
+      // 点击列表显示页面
+      document.querySelector('.list').addEventListener('click', (event) => {
+        const target = event.target
+        if (target.tagName == 'LI' && !target.classList.contains('active')) {
+          const id = target.dataset.id
+          const u = `./cache/https---www.kuaibiancheng.com-topics-${id}.html`
+          changeArticle(u)
+          // document.querySelector('.active').classList.remove('active')
+          Array.from(document.querySelectorAll('li')).forEach(el => {
+            if (el.classList.contains('active')) {
+              el.classList.remove('active')
+            }
+          })
+          target.classList.add('active')
+          activeArcId = id
+        }
       })
     }
 

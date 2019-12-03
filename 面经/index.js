@@ -80,7 +80,7 @@ const main = () => {
   const articleList = []
 
 
-  for (let i = 1000; i < 1147; i++) {
+  for (let i = 1000; i < 1148; i++) {
     let id = i
     const url = baseUrl + id
     const options = {
@@ -92,7 +92,7 @@ const main = () => {
       if (error === null && response.statusCode == 200) {
         const article = articleFromBody(body, path, id)
         articleList.push(article)
-        if (id == 1146) {
+        if (id == 1147) {
           saveJSON('test', articleList)
         }
         // log('成功缓存')
