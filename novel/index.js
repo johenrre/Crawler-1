@@ -20,9 +20,12 @@ const novelFromBody = body => {
 
 const __main = function() {
   const novelId = '24276'
+  // const novelId = '4772'
+  // const novelId = '711'
   // 获取目录
   dirForNovelId(novelId, dirs => {
-    for (let i = 813; i < dirs.length; i++) {
+    for (let i = 1000; i < dirs.length; i++) {
+      // for (let i = 0; i < 1000; i++) {
       const t = dirs[i]
       const options = {
         url: t.url,
@@ -33,10 +36,7 @@ const __main = function() {
       cachedUrl(options, function(error, response, body) {
         if (error === null && response.statusCode == 200) {
           // 从网页过滤出小说
-          const path = pathLib.join(
-            __dirname,
-            `./novelData/${novelId}/${t.title}.txt`
-          )
+          const path = pathLib.join(__dirname, `./novelData/${novelId}/${t.title}.txt`)
 
           fs.exists(path, function(exists) {
             if (!exists) {

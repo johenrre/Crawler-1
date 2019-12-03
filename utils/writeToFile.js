@@ -6,7 +6,7 @@ const pathLib = require('path')
  * 读取路径信息
  * @param {string} path 路径
  */
-function getStat(path) {
+function getStat (path) {
   return new Promise((resolve, reject) => {
     fs.stat(path, (err, stats) => {
       if (err) {
@@ -22,7 +22,7 @@ function getStat(path) {
  * 创建路径
  * @param {string} dir 路径
  */
-function mkdir(dir) {
+function mkdir (dir) {
   return new Promise((resolve, reject) => {
     fs.mkdir(dir, err => {
       if (err) {
@@ -38,7 +38,7 @@ function mkdir(dir) {
  * 路径是否存在，不存在则创建
  * @param {string} dir 路径
  */
-async function dirExists(dir) {
+async function dirExists (dir) {
   let isExists = await getStat(dir)
   //如果该路径且不是文件，返回true
   if (isExists && isExists.isDirectory()) {
@@ -58,7 +58,10 @@ async function dirExists(dir) {
   return mkdirStatus
 }
 
-const writeToFile = async function(path, data) {
+/**
+ *  根据path写入数据，如果目录没找到，会去创建
+ */
+const writeToFile = async function (path, data) {
   const d = typeof data === 'string' ? data : JSON.stringify(data, null, 2)
   const dir = path
     .split('/')
@@ -66,7 +69,7 @@ const writeToFile = async function(path, data) {
     .join('/')
 
   await dirExists(dir)
-  fs.writeFile(path, d, function(error) {
+  fs.writeFile(path, d, function (error) {
     if (!error) {
       // log('--- 写入成功', path)
     } else {

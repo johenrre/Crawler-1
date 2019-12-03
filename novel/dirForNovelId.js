@@ -74,6 +74,7 @@ const dirForNovelId = (novelId, callback) => {
   const url = baseUrl + novelId + '/'
   const options = {
     url: url,
+    // 默认返回body是会被转成utf8格式的字符串，这里设为null，body返回二进制数据
     encoding: null,
     headers: headers
   }
@@ -86,7 +87,7 @@ const dirForNovelId = (novelId, callback) => {
     const data = bufs.toString('utf8')
     if (error === null && response.statusCode == 200) {
       const chapters = novelFromBody(data)
-      saveJSON(path, chapters)
+      saveJSON(path, chapters, '小说目录')
       callback(chapters)
     } else {
       log('*** ERROR 请求失败 ', error)
