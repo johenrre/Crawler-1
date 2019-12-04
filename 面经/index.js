@@ -80,7 +80,7 @@ const main = () => {
   const articleList = []
 
   const saveArticle = () => {
-    if (articleList.length == 647) {
+    if (articleList.length == 648) {
       saveJSON('article', articleList)
     }
   }
@@ -105,6 +105,5 @@ const main = () => {
     })
   }
 }
-
 
 main()
