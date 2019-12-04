@@ -45,6 +45,7 @@
 
     li {
       white-space: nowrap;
+      text-align: left;
     }
 
     .log {
@@ -65,6 +66,7 @@
     </select>
     <button class="lin">显示lin回答</button>
     <button class="star">显示收藏列表</button>
+    <button class="lin1star">显示收藏列表+lin</button>
     <button class="addStar">添加收藏</button>
     <button class="removeStar">取消收藏</button>
     <button class="saveStar">保存收藏到本地文件</button>
@@ -103,6 +105,15 @@
       fakeClick(save_link);
     }
 
+    // 去重
+    function arrayUnique2(arr, name) {
+      var hash = {};
+      return arr.reduce(function (item, next) {
+        hash[next[name]] ? '' : hash[next[name]] = true && item.push(next);
+        return item;
+      }, []);
+    }
+
     function readTextFile(file, callback) {
       var rawFile = new XMLHttpRequest();
       rawFile.overrideMimeType("application/json");
@@ -118,7 +129,7 @@
     const randerList = (list) => {
       let html = '<ul>'
       list.forEach(item => {
-        const li = `<li data-id="${item.id}">${item.title}</li>`
+        const li = `<li data-id="${item.id}">${item.id}||${item.title}</li>`
         html += li
       })
       document.querySelector('.list').innerHTML = html += '</ul>'
@@ -129,12 +140,13 @@
       let listData = null
       let activeArcId = null
 
-      readTextFile("./test", function (text) {
+      // readTextFile("./test", function (text) {
+      readTextFile("./article", function (text) {
         listData = JSON.parse(text);
         listData.sort((a, b) => {
           return a.id - b.id
         }).reverse()
-        console.log('list', listData);
+        console.log('listData', listData);
         const l = listData.filter(item => item.type == '前端')
         randerList(l)
       });
@@ -151,11 +163,16 @@
           const msg = `收藏成功 ${activeArcId}`
           console.log('starList', starList);
           log(msg)
+          // TODO
+          // 刷新列表
         }
       })
       // 取消收藏
       document.querySelector('.removeStar').addEventListener('click', () => {
         let starList = JSON.parse(localStorage.getItem('star'))
+        if (starList === null) {
+          return
+        }
         const index = starList.indexOf(activeArcId)
         if (index !== -1) {
           starList.splice(index, 1)
@@ -188,11 +205,31 @@
       // 显示lin回答
       document.querySelector('.lin').addEventListener('click', () => {
         const l = listData.filter(item => item.isLin)
+        console.log('lin回答列表', l)
         randerList(l)
       })
       // 显示收藏
+      document.querySelector('.star').addEventListener('click', () => {
+        let starList = JSON.parse(localStorage.getItem('star'))
+        if (starList == null) {
+          return
+        }
+        const l = listData.filter(item => starList.indexOf(String(item.id)) !== -1)
+        console.log('收藏列表', l)
+        randerList(l)
+      })
       // 显示lin回答和收藏
-
+      document.querySelector('.lin1star').addEventListener('click', () => {
+        let starList = JSON.parse(localStorage.getItem('star'))
+        if (starList == null) {
+          return
+        }
+        const l1 = listData.filter(item => starList.indexOf(String(item.id)) !== -1)
+        const l2 = listData.filter(item => item.isLin)
+        const l = arrayUnique2(l1.concat(l2), 'id')
+        console.log('显示lin回答和收藏', l)
+        randerList(l)
+      })
       // 点击列表显示页面
       document.querySelector('.list').addEventListener('click', (event) => {
         const target = event.target

@@ -79,8 +79,14 @@ const main = () => {
   // const id = '600'
   const articleList = []
 
+  const saveArticle = () => {
+    if (articleList.length == 647) {
+      saveJSON('article', articleList)
+    }
+  }
 
-  for (let i = 1000; i < 1148; i++) {
+
+  for (let i = 500; i < 1148; i++) {
     let id = i
     const url = baseUrl + id
     const options = {
@@ -92,10 +98,7 @@ const main = () => {
       if (error === null && response.statusCode == 200) {
         const article = articleFromBody(body, path, id)
         articleList.push(article)
-        if (id == 1147) {
-          saveJSON('test', articleList)
-        }
-        // log('成功缓存')
+        saveArticle()
       } else {
         log('*** ERROR 请求失败 ', error)
       }
